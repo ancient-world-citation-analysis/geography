@@ -1,0 +1,565 @@
+site_id,accuracy,cdli_provenience_id,anc_name,transc_name,ara_name,arm_name,fas_name,geo_name,gre_name,heb_name,rus_name,pleiades_id,osm_id,osm_type,geonames_id,cdli_legacy,wik_en,wik_ara,wik_fas,wik_gre,wik_heb,wik_tr,lon_wgs1984,lat_wgs1984
+ABY,3,104,Abdju,Abīdūs,أبيدوس‎,,,,,,,756512,90456103,way,0,"Abdju (mod. Abydos, Egypt)",https://en.wikipedia.org/wiki/Umm_El_Qa%27ab,https://ar.wikipedia.org/wiki/أم_الجعاب,,,,,31.9080,26.1747
+ADA,2,0,,Adalar,,,,,,,,0,8111965224,node,0,,,,,,,,42.5142,39.1240
+ADB,3,252,Adab,Bismāyā,بسمايا,,,,,,,787747618,2482344888,node,0,Adab (mod. Bismaya),https://en.wikipedia.org/wiki/Adab_(city),https://ar.wikipedia.org/wiki/أداب_(مدينة),,,,,45.6233,31.9509
+AGR,3,102,Unknown,Tall Ajrab,تل اجرب,,,,,,,171585551,0,,0,uncertain (mod. Tell Agrab),https://en.wikipedia.org/wiki/Tell_Agrab,https://ar.wikipedia.org/wiki/تل_أغرب,,,,,44.8742,33.3391
+AHT,2,0,,Ahtamar,,,,,,,,0,191563482,way,324757,,https://en.wikipedia.org/wiki/Akdamar_Island,,,,,https://tr.wikipedia.orgwiki/Akdamar_Adası,43.0370,38.3401
+AIR,1,0,,‘Ayn-i Rūm,,,عین الروم,,,,,874307,0,,0,,,,,,,,45.1320,37.1837
+AJJ,3,118,Shaddikanni,Tall ‘Ajājah,تل عجاجة,,,,,,,874688,3377375046,node,0,Šaddikanni (mod. Tell Ajaja),,,,,,,40.7205,36.2082
+AKH,3,266,Akhetaten,Al-‘Amārnah,العمارنة,,,,,,,149576487,102555365,way,12119893,Akhetaten (mod. el-Amarna),https://en.wikipedia.org/wiki/Amarna,https://ar.wikipedia.org/wiki/تل_العمارنة,,,,,30.8959,27.6400
+ALA,3,162,Alalah,Tel Açana,تل العطشانة,,,,,,,309866128,144312399,way,438064,Alalakh (mod. Tell Açana) : uncertain (mod. Tell Atshana),https://en.wikipedia.org/wiki/Alalakh,,,,,,36.3842,36.2377
+ALH,3,0,,Alaça Höyuk,,,,,,,,991964195,171691586,way,745464,,https://en.wikipedia.org/wiki/Alaca_Höyük,,,,,https://tr.wikipedia.org/wiki/Alacahöyük,34.6951,40.2344
+ALI,2,0,,Aliler,,,,,,,,291498921,0,,0,,,,,,,,43.4868,38.8548
+ALS,3,227,Ankuwa,Alişar Hüyük,,,,,,,,650309285,183053062,way,0,uncertain (mod. Alisar),https://en.wikipedia.org/wiki/Alişar_Hüyük,,,,,https://tr.wikipedia.org/wiki/Alişar_Höyüğü,35.2614,39.6059
+ALT,3,0,,Altıntepe,,,,,,,,874316,130188095,way,0,,https://en.wikipedia.org/wiki/Altıntepe,,,,,https://tr.wikipedia.org/wiki/Altıntepe,39.6467,39.6964
+AMD,3,179,,Tall ʻĀmūdā,تل عامودا,,,,,,,874318,0,,0,uncertain (mod. Amuda) ?,,,,,,,40.9293,37.0972
+AMM,1,0,,‘Ammān,عَمَّان‎,,,,,,,0,0,,0,,,,,,,,36.0202,31.7219
+ANS,3,286,Anšan,Tal-I Malyān,,,تل ملیان,,,,,922729,3323694495,node,125047,Anšan (mod. Tell Malyan),https://en.wikipedia.org/wiki/Malyan%2C_Fars,,https://fa.wikipedia.org/wiki/ملیان_(بیضا),,,,52.4123,30.0119
+ANT,3,298,Pi-Kasî,Tall Abū ‘Antīk,تل أبو عنتيك,,,,,,,0,0,,0,,,,,,,,44.6393,32.1311
+ANZ,2,0,,Dereüstü,,,,,,,,0,1860375427,node,316914,,,,,,,,43.4700,38.5563
+APH,3,10,Antipatris,Tel Afek,,,,,,תל אפק,,687996,558583215,node,295746,Antipatris (mod. Tel Aphek),https://en.wikipedia.org/wiki/Antipatris,,,,https://he.wikipedia.org/wiki/תל_אפק_(אנטיפטריס),,34.9311,32.1053
+AQA,3,13,Dur-Kurigalzu,Tall ‘Aqarqūf,تل عقرقوف,,,,,,,893988,2486175272,node,6647830,Dur-Kurigalzu (mod. Aqar Quf),https://en.wikipedia.org/wiki/Dur-Kurigalzu,https://ar.wikipedia.org/wiki/زقورة_عقرقوف,,,,,44.1888,33.3599
+ARA,1,0,,Aras,,,,,,,,0,2446149644,node,323694,,,,,,,,42.3081,39.9893
+ARI,3,0,Erebuni,Arin Berd,,Արին բերդ,,,,,,863785,445380061,way,11336806,,https://en.wikipedia.org/wiki/Erebuni_Fortress,,,,,,44.5380,40.1405
+ARK,1,0,Arzaškun,Arinçkus,,,,,,,,0,2291639337,node,0,,,,,,,,43.0669,38.8107
+ARM,1,0,Argištihinili,Armavir,,Արմավիր,,,,,,0,183430453,way,0,,https://en.wikipedia.org/wiki/Armavir_(ancient_city),,,,,,44.0332,40.0820
+ARR,3,165,Arrapha,Kirkūk,كركوك,,,,,,,893941,602684164,way,0,Arrapha (mod. Kirkuk),https://en.wikipedia.org/wiki/Arrapha,https://ar.wikipedia.org/wiki/عرفة_(العراق),,,,,44.3957,35.4701
+ART,3,35,Ḫadatu,Arslān Ṭash,أرسلان طاش,,,,,,,658399,268543376,way,172902,Ḫadatu (mod. Arslan Tash),,,,,,,38.4078,36.8484
+ARU,1,0,Unknown,Aruch,,Արուճ,,,,,,0,1450817083,node,823790,,https://en.wikipedia.org/wiki/Aruch,,,,,,44.0784,40.2865
+ASA,3,0,Unknown,Aşağı Anzaf,,,,,,,,0,0,,0,,,,,,,,43.4643,38.5678
+ASD,3,364,Asdûdu,Ashdod,أَشْدُود‎,,,,,אַשְׁדּוֹד,,687838,0,,293402,Asdūdu (mod. Ashdod),,,,,,,34.6593,31.7560
+ASK,3,73,,Tall Abū Ṣālabīkh,تل أبو صلابيخ,,,,,,,912950,552343783,way,0,uncertain (mod. Abu Salabikh),https://en.wikipedia.org/wiki/Abu_Salabikh,https://ar.wikipedia.org/wiki/أبو_صلابيخ,,,,,45.0544,32.2526
+ASS,3,205 : 211,Assur,Qalʻat Shirqāṭ,قاعة شرقط,,,,,,,893945,144223654,way,0,uncertain (mod. Kalah Shergat) : Assur (mod. Qalat Sherqat),https://en.wikipedia.org/wiki/Assur,https://ar.wikipedia.org/wiki/آشور_(مدينة),,,,,43.2611,35.4557
+AST,1,0,,Metsopay-Vank,,,,,,,,0,0,,0,,,,,,,,43.0397,39.1679
+ASZ,3,136,Ašnakkum,Tall Shāghir Bāzār,تل شاغر بازار,,,,,,,480215077,492109676,way,169251,uncertain (mod. Chagar Bazar),,,,,,,40.8978,36.8755
+AUS,3,0,Pitru,Tall ‘Aushariyah,تل عوشرية,,,,,,,771224407,0,,0,,https://en.wikipedia.org/wiki/Pitru,,,,,,38.0755,36.6599
+AVN,2,0,,Güzelhisar,,,,,,,,0,1493009686,node,313233,,,,,,,,41.9817,39.8283
+AWA,2,0,,Qal‘at ‘Awaynah,قلعة عوينة,,,,,,,0,322373473,way,89760,,,,,,,,43.7195,36.0754
+AYA,3,0,Rusaginili Eidurukai,Ayanıs,,,,,,,,0,185622364,way,0,,,,,,,,43.2114,38.7083
+AYC,3,310,,Aşağı Yarımca,,,,,,,,0,2311371181,node,436411,uncertain (mod. Aşağı Yarımca),,,,,,,38.9690,36.8949
+AZF,3,0,Unknown,Yukarı Anzaf,,,,,,,,0,0,,0,,,,,,,,43.4703,38.5597
+AZN,2,0,Aludiri,Aznavurtepe,,,,,,,,0,185634808,way,0,,,,,,,,42.8337,39.2502
+BAB,3,200 : 299,Babylon,Bābīl,بابيل,,,,,,,893951,2488023863,node,98228,Bābili (mod. Babylon) : uncertain (mod. Amran),https://en.wikipedia.org/wiki/Babylon,https://ar.wikipedia.org/wiki/بابل,,,,,44.4258,32.5350
+BAH,1,0,,Bahçecik,,,,,,,,0,0,,0,,,,,,,,40.0858,38.9117
+BAK,2,0,,Bakraçlı,,,,,,,,0,1482093705,node,322242,,,,,,,,43.4612,38.4491
+BAL,1,0,,Bağin,,,,,,,,0,1078126242,node,314984,,,,,,,,39.9002,39.0034
+BAM,3,417,,Kition,,,,,Κίτιον,,,707534,7273182294,node,11919539,uncertain (mod. Lacarna),https://en.wikipedia.org/wiki/Kition,,,https://el.wikipedia.org/wiki/Κίτιο,,,33.6329,34.9201
+BAQ,2,0,Bit-Adad-eriba,Tall Baqāq,تل بقاق,,,,,,,977603753,2488215772,node,0,,,,,,,,42.9369,36.6888
+BAR,3,361,Girumu,Tall Barguthiat,Unknown,,,,,,,894000,0,,0,Kish (mod. Tell Barguthiat),,,,,,,44.7947,32.7029
+BAS,3,24,Mardaman,Bassatki,باستكي,,,,,,,0,624850125,way,0,uncertain (mod. Bassetki),https://en.wikipedia.org/wiki/Mardaman,,,,,,42.7213,36.9589
+BAW,3,0,,Bakr Āwā,نكرأوI,,,,,,,0,424696133,way,98118,,https://en.wikipedia.org/wiki/Bakr_Awa,,,,,,45.9403,35.2215
+BAY,1,231,,Baysān,بيسان,,,,,,,0,5370595232,,0,uncertain (mod. Beisan),,,,,,,43.1037,36.4222
+BAZ,3,0,Armanum?,Tall Bāzy,تل بازي,,,,,,,0,729095745,way,0,,,https://ar.wikipedia.org//wiki/تل_بازي,,,,,38.2762,36.4273
+BBK,2,0,,Başbulak,,,,,,,,0,1951322004,node,320457,,,,,,,,44.2549,39.9374
+BDI,1,0,Dur-Aššur-ketti-lešer,Tall Budayrī,تل بديري,,,,,,,0,572574776,node,171243,,,,,,,,40.8136,36.3875
+BES,2,0,,Beşçatak,,,,,,,,0,1482093719,node,9815294,,,,,,,,43.5635,38.5159
+BHN,1,0,,Banāt al-Hassan,بنات الحسن,,,,,,,0,0,,0,,,,,,,,45.5218,31.5757
+BHS,1,0,,Banāt al-Hassan,بنات الحسن,,,,,,,912818,0,,0,,,,,,,,45.5399,31.5557
+BIN,1,0,,Bingöl Dağ,,,,,,,,0,0,,0,,,,,,,,41.3873,39.3101
+BIS,3,237,,Bīsutūn,,,بیستون‎,,,,,903002,345926152,node,0,uncertain (mod. Behistun),,,,,,,47.4318,34.3881
+BIT,2,0,,Bitlis,,,,,,,,874438,26486498,node,321025,,https://en.wikipedia.org/wiki/Bitlis,,,,,https://tr.wikipedia.org/wiki/Bitlis,42.1071,38.4013
+BLQ,1,0,,Al-Bilad al-Qadim,البلاد القديم,,,,,,,0,0,,0,,,,,,,,50.5371,26.2184
+BLW,3,275,Imgur-Enlil,Balāwāt,بلاوات,,,,,,,90032637,0,,0,Imgur-Enlil (mod. Balawat),https://en.wikipedia.org/wiki/Balawat,https://ar.wikipedia.org/wiki/بلاوات,,,,,43.4033,36.2294
+BMB,2,0,Unknown,Bambakajat,,Բամբակաշատ,,,,,,0,785291049,way,616823,,https://en.wikipedia.org/wiki/Bambakashat,,,,,,44.0183,40.1029
+BOR,3,83,Borsippa,Birs Nimrūd,برس نمرود,,,,,,,893964,0,,448143,Borsippa (mod. Birs Nimrud),https://en.wikipedia.org/wiki/Borsippa,https://ar.wikipedia.org/wiki/بورسيبا,,,,,44.3434,32.3924
+BOS,2,0,,Bostankaya,,,,,,,,0,2283852309,node,320821,,,,,,,,42.6557,39.2028
+BRD,3,431,Unknown,Tall Baradān,تل بردان,,,,,,,894127,0,,0,uncertain (mod. Tell Baradan),,,,,,,45.0512,34.1910
+BRK,3,217,Nagar,Tall Brāk,تل براك,,,,,,,874735,232286478,way,171437,Nagar (mod. Tell Brak),https://en.wikipedia.org/wiki/Tell_Brak,https://ar.wikipedia.org/wiki/تل_براك,,,,,41.0584,36.6670
+BRM,2,0,,Burmageçit,,,,,,,,0,0,,0,,,,,,,,39.5429,38.9714
+BRS,1,408,Unknown,Brīṣā,بريصا,,,,,,,809004346,0,,0,uncertain (mod. Brissa),,,,,,,36.3117,34.4309
+BSE,3,0,,Tel Bet Shemesh,تل بيت شيمش,,,,,תל בית שמש,,432223402,497106485,way,293386,,,,,,,,34.9748,31.7506
+BSH,1,111,,Ben Shemen,,,,,,בן שמן,,413309736,0,,0,"uncertain (mod. Ben Shemen, Israel)",,,,,,,34.9206,31.9535
+BSK,1,0,,Başkale,,,,,,,,874315,1778014,relation,321940,,,,,,,,44.0171,38.0448
+BST,3,0,Unknown,Qa`la Bast,,,قلعه بسټ,,,,,0,0,,1425376,,,,,,,,64.3566,31.5081
+BSV,3,0,,Tel Be'er Sheva,,,,,,תל באר שבע,,687846,96320718,way,293389,,https://en.wikipedia.org/wiki/Tel_Be%27er_Sheva,,,,https://he.wikipedia.org/wiki/תל_באר_שבע,,34.8406,31.2449
+BTB,3,133,Bad-Tibira,Tall al-Madinah,تل المدينة,,,,,,,771224406,5282149540,node,0,Bad-Tibira (mod. Tell Medinah),https://en.wikipedia.org/wiki/Bad-tibira,https://ar.wikipedia.org/wiki/باد_تيبيرا,,,,,46.0040,31.3832
+BTM,2,0,,Basṭām,,,بسطام,,,,,874396,1938054509,node,0,,https://en.wikipedia.org/wiki/Bastam_Citadel,,https://fa.wikipedia.org/wiki/دژ_بسطام,,,,44.9473,38.8859
+BTU,3,66,,Kebeli,,,,,,,,708232008,1101637822,node,0,"uncertain (mod. Babil, Turkey)",,,,,,,42.0279,37.1876
+BUK,3,0,,Büklükale,,,,,,,,0,234575107,way,0,,,,,,,,33.4283,39.5832
+BUL,2,0,Unknown,Bulutpınar,,,,,,,,0,2283852313,node,320410,,,,,,,,42.6550,39.3397
+BUR,3,365,Burmarina,Tall al-Shiyūkh Fūqānī,تل الشيوخ فوقاني,,,,,,,0,5318001932,node,10304605,Burmarina (mod. Tell Shiukh Fawqani),,,,,,,38.0359,36.7875
+BVI,3,240,,Bāfīān,بافيان,,,,,,,874398,4532522439,node,0,uncertain (mod. Bavian),https://en.wikipedia.org/wiki/Khinnis_Reliefs,,,,,,43.4200,36.7615
+BYB,3,47,Gubla,Jibaīl,جبيل,,,,,,,668216,113211719,way,0,Gubla (mod. Byblos),https://en.wikipedia.org/wiki/Byblos,https://ar.wikipedia.org/wiki/جبيل,,,,,35.6460,34.1191
+BZM,2,0,,Tall Bāz Musiyān,تل باز مسيان,,,,,,,532748467,2488281449,node,97731,,https://en.wikipedia.org/wiki/Tell_Bazmusian,,,,,,44.9243,36.1614
+CAV,3,0,Sardurihinili,Çavuştepe,,,,,,,,825333700,184072597,way,6987233,,https://en.wikipedia.org/wiki/Çavuştepe,,,,,https://tr.wikipedia.org/wiki/Çavuştepe_Kalesi,43.4619,38.3533
+CEL,2,0,Unknown,Çelebibağı,,,,,,,,0,2292068609,node,318923,,,,,,,,43.3127,38.9839
+CGM,3,137,,Chughā Mīsh,,,چغامیش,,,,,912829,670424271,way,138866,uncertain (mod. Chogha Mish),https://en.wikipedia.org/wiki/Chogha_Mish,,,,,,48.5555,32.2240
+CGV,3,0,Palum,Chughā Gāwānah,,,چقاگاوانه,,,,,0,345763293,way,0,,,,,,,,46.5286,34.1101
+CHK,3,0,Unknown,Acemhöyük,,,,,,,,804216207,181040055,way,0,,,,,,,,33.8347,38.4117
+CHM,3,0,,Jamjamāl,جمجمال,,,,,,,0,0,,0,,,,,,,,44.8350,35.5367
+CHR,1,0,,Irákleio,,,,Ηράκλειο,,,,589802,29438069,node,261745,,,,,,,,25.1332,35.3402
+CHU,3,204,Ḫarbe,Tall al-Shuwaiyrah,تل الشويرة,,,,,,,677382294,567060598,node,0,Ḫarbe (mod. Tell Chuera),https://en.wikipedia.org/wiki/Tell_Chuera,https://ar.wikipedia.org/wiki/تل_الخويرة,,,,,39.4981,36.6469
+CKK,2,65,,Kalmākarrah,,,کلماکره,,,,,0,0,,0,uncertain (mod. Cave Kalm-karra),,,,,,,47.6010,33.1998
+COZ,3,109,Dur-Untaš,Chughā Zanbīl,,,چغازنبیل,,,,,459393126,378521367,way,139000,Dur-Untaš (mod. Chogha Zanbil),https://en.wikipedia.org/wiki/Chogha_Zanbil,,https://fa.wikipedia.org/wiki/چغازنبیل,,,,48.5229,32.0078
+CPE,3,0,,Chughā Pahn,,,چغاپهن,,,,,0,0,,0,,,,,,,,48.6133,32.2291
+CPW,2,0,,Chughā Pahn,,,چغاپهن,,,,,0,0,,0,,,,,,,,48.4862,32.1851
+CSA,1,0,Unknown,Chughā Sabz,,,چغا سبز,,,,,0,0,,0,,,,,,,,47.3953,33.3179
+DAB,3,0,,Tall al-Ḍabʻa,تل الضبعة,,,,,,,727080,0,,0,,https://en.wikipedia.org/wiki/Tell_El-Dab%27a,https://ar.wikipedia.org/wiki/أفاريس,,,,,31.8233,30.7867
+DAM,3,0,Adama,Tall Dāmiyā,تل داميا,,,,,,,0,0,,249738,,,,,,,,35.5469,32.1038
+DAS,3,0,Unknown,Daskileion,,,,,,,,511225,234159207,way,0,,,,,,,https://tr.wikipedia.org/wiki/Daskileion,28.0507,40.1326
+DEF,3,0,Unknown,Kūm Dafnah,كوم دفنة,,,,,,,0,0,,358515,,https://en.wikipedia.org/wiki/Tahpanhes,https://ar.wikipedia.org/wiki/تل_دفنه,,,,,32.1774,30.8579
+DEG,2,0,,Değirmenköy,,,,,,,,0,1482093753,node,317435,,,,,,,,43.5152,38.5131
+DEP,3,220,Dura-Europos,Dūrā Awrubūs,دورا أوربوس,,,,,,,893990,23197438,way,172481,uncertain (mod. Dura-Europus),https://en.wikipedia.org/wiki/Dura-Europos,https://ar.wikipedia.org/wiki/دورا_أوربوس,,,,,40.7298,34.7479
+DER,3,178,Der,Tall ‘Aqār,تل عقار,,,,,,,903013,7321216985,node,0,Der (mod. Tell Aqar),https://en.wikipedia.org/wiki/Der_%28Sumer%29,https://ar.wikipedia.org/wiki/دير_(سومر),,,,,45.9316,33.1238
+DEY,3,0,,Tapah Daylam,,,تپه دیلم,,,,,0,0,,0,,,,,,,,48.4262,32.1672
+DGK,3,0,,Dugirdkhan,Unknown,,,,,,,0,0,,0,,,,,,,,44.8475,36.1549
+DHR,1,106,,Al-Ẓahrān,الظهران,,,,,,,932449,0,,0,uncertain (mod. Dharan),,,,,,,50.1502,26.2664
+DIB,1,0,,Dibba,دب,,,,,,,0,2892004608,node,288760,,,,,,,,56.2639,25.6317
+DIL,1,376,Dilmun,‘Ālī,عالي,,,,,,,0,0,,0,"Dilmun (mod. A'ali, Bahrain)",0,,,,,,50.5256,26.1517
+DKA,3,135,Dur-Katlimmu,Tall al-Shaiykh Hamad,تل الشيخ حمد,,,,,,,893991,226862712,way,164335,Dur-Katlimmu (mod. Tall Shekh Hamad),https://en.wikipedia.org/wiki/Tell_Sheikh_Hamad,https://ar.wikipedia.org/wiki/دور_كاتليمو,,,,,40.7436,35.6463
+DLB,3,253,Dilbat,Tall al-Dilaiym,تل الدليم,,,,,,,893987,3377363694,node,0,Dilbat (mod. Deilam),0,,,,,,44.4668,32.2961
+DLH,3,0,Tummal,Ishān Dulaiyhim,إيشان دليهم,,,,,,,0,2482344904,node,6731733,,0,https://ar.m.wikipedia.org/wiki/Īshān_Dulayhim,,,,,45.4108,31.9985
+DLM,3,377,Dilmun,Qalʻat al-Baḥraīn,قلعة البحرين,,,,,,,932478,116780188,way,6942066,Dilmun (mod. Qal'at al-Bahrain),https://en.wikipedia.org/wiki/Qal%27at_al-Bahrain,https://ar.wikipedia.org/wiki/قلعة_البحرين,,,,,50.5209,26.2328
+DMU,3,0,Admannu,Tall ‘Ali,تل علي,,,,,,,532748466,2482641455,node,6770327,,0,,,,,,43.6820,35.3819
+DNO,3,206,,Dah-i Nū,,,دە نو,,,,,903011,4609597990,node,0,"uncertain (mod. Deh-e No, Iran)",0,,,,,,48.5684,32.0686
+DOH,1,164,,Dāhuk,دهوك‎,,,,,,,955792756,5372867104,node,0,uncertain (mod. Dohuk) ?,0,,,,,,42.9205,36.8623
+DON,1,0,Unknown,Donatım,,,,,,,,0,0,,0,,0,,,,,,41.5317,38.7187
+DQD,3,153,,Diqdiqqah,دقدقة,,,,,,,138636347,0,,0,uncertain (mod. Diqdiqqah),0,,,,,,46.1186,30.9745
+DRE,3,160,Puzriš-Dagan,Tall Dariyhim,تل دريهم,,,,,,,359215729,906657420,way,6739300,Puzriš-Dagan (mod. Drehem),0,,,,,,45.2922,32.0591
+DUB,1,0,,Abū Dhuba‘,أبو ضبع,,,,,,,0,0,,0,,0,,,,,,45.6225,31.6772
+DUZ,2,0,,Düzceli,,,,,,,,0,1458792949,node,316045,,0,,,,,,42.7279,39.1747
+DWL,2,277,,Al-Dawālī,الدوالي,,,,,,,945906723,5370989129,node,0,uncertain (mod. Dawali),0,,,,,,41.9912,34.4535
+EBA,3,79,Ebla,Tall Mardīkh,تل مرديخ,,,,,,,869702586,226878627,way,167248,Ebla (mod. Tell Mardikh),https://en.wikipedia.org/wiki/Ebla,https://ar.wikipedia.org/wiki/إبلا,,,,,36.7983,35.7990
+EDF,2,0,Unknown,Idfū,إدفو‎,,,,,,,785974,768078792,node,355635,,https://en.wikipedia.org/wiki/Edfu,https://ar.wikipedia.org/wiki/إدفو,,,,,32.8728,24.9782
+EDR,2,0,,Edremit,,,,,,,,874362,206258054,node,301529,,0,,,,,,43.2411,38.4182
+EKA,3,214,Ekalte,Tall Munbāqah,تل منباقه,,,,,,,703315102,6099565285,node,0,Ekalte (mod. Tell Munbaqa),https://en.wikipedia.org/wiki/Mumbaqat,,,,,,38.1298,36.2182
+EKY,3,0,,Eskiyapar,,,,,,,,0,171691587,way,747252,,,,,,,https://tr.wikipedia.org/wiki/Eskiyapar_Höyüğü,34.7730,40.1581
+ELA,1,0,Unknown,Elar,,Էլար,,,,,,0,0,,0,,,,,,,,44.6168,40.2681
+ELM,2,0,Unknown,Elmalık,,,,,,,,464766952,2811547226,node,315691,,,,,,,"https://tr.wikipedia.org/wiki/Elmalık,_Yalova",43.3098,38.4119
+EMR,3,143,Emar,Tall Maskanah,تل مسكنة,,,,,,,279984092,226877980,way,0,Emar (mod. Tell Meskene),https://en.wikipedia.org/wiki/Emar,https://ar.wikipedia.org/wiki/إيمار,,,,,38.1126,35.9876
+ERD,1,0,KURQilbani,Erek Daǧ,,,,,,,,356811079,0,,0,,,,,,,,43.5556,38.4813
+ERI,3,59,Eridu,Abū Shahraīn,أبو شهرين,,,,,,,912845,694065002,way,96834,Eridu (mod. Abu Shahrain),https://en.wikipedia.org/wiki/Eridu,https://ar.wikipedia.org/wiki/إريدو,,,,,45.9962,30.8169
+ERN,2,0,,Ererin,,,,,,,,0,1460266002,node,317744,,,,,,,,43.2462,38.7579
+ERZ,1,0,Unknown,Erzen,,,,,,,,0,0,,0,,https://en.wikipedia.org/wiki/Arzen,,,,,,41.3849,37.9780
+ESH,3,91,Ešnuna,Tall ʼAsmar,تا أسمر,,,,,,,90720956,307249233,way,12084455,Ešnunna (mod. Tell Asmar),https://en.wikipedia.org/wiki/Eshnunna,https://ar.wikipedia.org/wiki/إشنونة,,,,,44.7276,33.4837
+ESK,2,0,,Ishkaft Salmān,,,اشکفت سلمان,,,,,0,4834356526,node,7549570,,,,,,,,49.8476,31.8165
+FAK,1,0,Kurruẖanni,Tall al-Fakhar,تل الفخار,,,,,,,574198886,493256132,way,0,,https://en.wikipedia.org/wiki/Tell_al-Fakhar,https://ar.wikipedia.org/wiki/تل_الفخار_(العراق),,,,,43.9799,35.3808
+FAQ,2,0,Unknown,Fāqūs,فاقوس,,,,,,,0,768593719,node,356989,"uncertain (mod. Faqous, Egypt)",https://en.wikipedia.org/wiki/Faqous,https://ar.wikipedia.org/wiki/فاقوس,,,,,31.7964,30.7276
+FDW,3,115,,Abū Fanduwā,,,ابو فندوا,,,,,0,0,,0,uncertain (mod. Abu Fandowa),https://en.wikipedia.org/wiki/Tell_Fekheriye,,,,,,48.3164,32.0941
+FKR,3,32,,Tall al-Fakhīriyah,تل الفخيرية,,,,,,,572048102,4033376056,node,0,uncertain (mod. Tell Fakhariyah),https://en.wikipedia.org/wiki/Tell_Fekheriye,https://ar.wikipedia.org/wiki/تل_الفخيرية,,,,,40.0707,36.8424
+FLO,3,0,Unknown,Falerii,,,,,,,,0,0,,0,,,,,,,,12.4217,42.2988
+FRA,1,0,Unknown,Tall Fray,,,,,,,,0,0,,0,uncertain (mod. Tell Fray),https://en.wikipedia.org/wiki/Tell_Fray,,,,,,38.3835,35.9029
+FRU,3,129,,Tapah Farukhābād,,,تپه فرخآباد,,,,,0,0,,0,uncertain (mod. Tepe Farukhabad),,,,,,,47.2246,32.5873
+FSN,1,0,,Tall Fisnah,تل فسنة,,,,,,,0,0,,0,,,,,,,,42.8899,36.7079
+GAR,2,0,,Garni,,Գառնիի,,,,,,976360689,215286758,way,11336259,,https://en.wikipedia.org/wiki/Temple_of_Garni,,,,,,44.7299,40.1124
+GAV,1,0,DHaldiei URU,Gavaṛ,,Գավառ,,,,,,863819,0,,0,,https://en.wikipedia.org/wiki/Gavar,,,,,,45.1383,40.3547
+GCN,3,150,,Giricano,,,,,,,,293088342,94498834,way,0,uncertain (mod. Giricano),,,,,,https://tr.wikipedia.org/wiki/Giricano_Höyüğü,40.7499,37.8169
+GDR,3,295,,Tall Ghaḍaiyrīfah,تل غضيريفه,,,,,,,0,0,,0,uncertain (mod. Tell Ghdairife),,,,,,,44.2649,34.1818
+GIR,3,88,Girsu,Tall Tīlūh,تا تيلوه,,,,,,,912855,307334507,way,93976,Girsu (mod. Tello),https://en.wikipedia.org/wiki/Girsu,https://ar.wikipedia.org/wiki/جيرسو,,,,,46.1776,31.5591
+GJN,2,420,Unknown,Ganjnāmah,,,گنجنامه,,,,,903032,3792880166,node,134125,uncertain (mod. Mount Elvend),https://en.wikipedia.org/wiki/Ganjnameh,,fa.wikipedia.org/wiki/گنج%E2%80%8Cنامه,,,,48.4373,34.7622
+GLA,3,173,,Glay‘a,Unknown,,,,,,,223856812,0,,0,uncertain (mod. Glai'a),,,,,,,42.1921,34.2909
+GNT,3,0,,Goňur depe,,,,,,,,391537222,301330523,way,0,,https://en.wikipedia.org/wiki/Gonur_Depe,,,,,,62.0377,38.2129
+GNZ,3,0,,Girnavaz,,,,,,,,539776278,5318180355,node,0,,,,,,,https://tr.wikipedia.org/wiki/Girnavaz_Höyüğü,41.2304,37.1049
+GOT,3,97,,Gūdīn Tapah,,,گودین‌تپه,,,,,903035,345763294,way,0,uncertain (mod. Godin Tepe),https://en.wikipedia.org/wiki/Godin_Tepe,,,,,,48.0685,34.5183
+GOV,2,0,,Gövelek,,,,,,,,0,1482093794,node,313908,,,,,,,,43.6220,38.5323
+GOZ,3,0,Tarsus,Gözlükule,,,,,,,,648789,279725033,way,0,,https://en.wikipedia.org/wiki/Gözlükule,,,,,https://tr.wikipedia.org/wiki/Gözlükule,34.8956,36.9123
+GRD,3,0,Unknown,Gird-i Rustam,,,Unknown,,,,,0,0,,0,,,,,,,,45.9157,35.7528
+GRL,1,412,Unknown,Gherla,,,,,,,,207133,45425101,way,677429,uncertain (mod. Gherla Romania),0,,,,,,23.8915,47.0195
+GRO,2,0,,Tall Karay Qāsim,تل گري قاسم,,,,,,,0,0,,0,,,,,,,,42.9257,36.6789
+GRS,3,38,Garšana,Tall Baridiyah,تل بردية,,,,,,,0,0,,0,Garšana (mod. uncertain),0,,,,,,46.1189,31.4433
+GTV,2,140,,Tapah Gutwand,,,تپه گتوند,,,,,0,0,,0,uncertain (mod. Tepe Gotvand) ?,,,,,,,48.8149,32.2363
+GUD,3,23,Gudua,Tall Ībrāhīm,تل إبراهيم,,,,,,,893977,552336805,way,0,Kutha (mod. Tell Ibrahim),https://en.wikipedia.org/wiki/Kutha,https://ar.wikipedia.org/wiki/كوثى,,,,,44.6112,32.7605
+GUG,1,0,Unknown,Güganis,,,,,,,,0,0,,0,,,,,,,,43.2200,38.3347
+GUL,1,0,,Shiqāft-i Gulgul,,,شقافت گل گل,,,,,0,0,,0,,https://en.wikipedia.org/wiki/Shikaft-e_Gulgul,,https://fa.wikipedia.org/wiki/نقش%E2%80%8Cبرجسته_گل_گل_ملکشاهی,,,,46.4843,33.4675
+GWR,3,285,,Tapah Gawra,تپه گورە,,,,,,,944606650,5404942223,node,0,uncertain (mod. Tepe Gawra),https://en.wikipedia.org/wiki/Tepe_Gawra,https://ar.wikipedia.org//wiki/تيبي_غاورا,,,,,43.2604,36.4958
+GZH,3,284,,Tall Gasir,,,تل گسر,,,,,0,0,,0,uncertain (mod. Ghazir),,,,,,,49.4149,31.3597
+GZR,3,0,,Gezer,تل الجزر,,,,,גֶּזֶר,,68790,1082792869,node,293376,,https://en.wikipedia.org/wiki/Gezer,,,,https://he.wikipedia.org/wiki/תל_גזר,,34.9210,31.8596
+HAB,1,0,,Habıbuşaǧı,,,,,,,,887556001,1829841678,node,10903894,,,,,,,https://tr.wikipedia.org/wiki/wiki/Habibuşağı_Kale,38.7937,38.4334
+HAD,3,248,,Tall al-Ḥadīdī,تل الحديدي,,,,,,,0,0,,9060,uncertain (mod. Hadidi),,,,,,,38.1507,36.2645
+HAE,1,0,Unknown,Hamamköy,,,,,,,,887415955,0,,0,,,,,,,,41.3538,39.9056
+HAL,2,382,Unknown,Halicarnassos,,,,,Ἁλικαρνᾱσσός,,,461581651,739181962,way,11962350,Halicarnassus (mod. Halicarnassus),https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus,,,,,,27.4241,37.0379
+HAM,3,384,Hamath,Ḥamāh,حماة,,,,,,,0,572557865,node,170017,Hamath (mod. Hama),https://en.wikipedia.org/wiki/Hama,https://ar.wikipedia.org/wiki/حماة,,,,,36.7479,35.1310
+HAN,1,0,,Tall Hanas,Unknown,,,,,,,0,0,,0,,,,,,,,43.2896,35.4368
+HAR,3,202,Harran,Harran,,,,,,,,658427,5273819922,node,0,Harran (mod. Harran),https://en.wikipedia.org/wiki/Harran,,,,,https://tr.wikipedia.org/wiki/Harran,39.0309,36.8634
+HAS,2,0,,Hasbey,,,,,,,,0,1482093817,node,312439,,,,,,,,42.8920,38.3427
+HAT,3,171,Ḫattusa,Boğazkale,,,,,,,,283602441,1598209,relation,9609567,Ḫattusa (mod. Boğazkale),https://en.wikipedia.org/wiki/Hattusa,,,,,https://tr.wikipedia.org/wiki/Hattuşaş,34.6164,40.0144
+HAY,1,0,Unknown,Haykavan,,Հայկավան,,,,,,0,783002698,way,616845,,"https://en.wikipedia.org/wiki/Haykavan,_Armavir",,,,,,44.0462,40.0910
+HAZ,3,46,,Tel Hazor,,,,,,תל חצור,,779967430,230115066,way,293365,uncertain (mod. Hazor),https://en.wikipedia.org/wiki/Tel_Hazor,,,,https://he.wikipedia.org/wiki/תל_חצור,,35.5654,33.0209
+HBK,3,44,,Ḥabūbah,حبوبة,,,,,,,923122730,0,,0,uncertain (mod. Habuba Kabira),https://en.wikipedia.org/wiki/Habuba_Kabira,https://ar.wikipedia.org/wiki/حبوبة_(مدينة_أثرية),,,,,38.0609,36.1501
+HBR,3,0,,Tel Hebron,,,,,,תל חברון,,687915,1258388380,node,0,,https://en.wikipedia.org/wiki/Tel_Rumeida,,,,https://he.wikipedia.org/wiki/תל_רומיידה,,35.1023,31.5245
+HBS,1,0,,Ḥabl al-Ṣakhar,حبل الصخر,,,,,,,0,0,,0,,,,,,,,44.2698,33.1216
+HDD,3,149,Me-Turran,Tall Ḥadād,تل حداد,,,,,,,894042,0,,0,Me-Turran (mod. Tell Haddad),,,,,,,45.0563,34.1928
+HFR,1,0,,Umm al-Ḥafryāt,أم الحفريات,,,,,,,0,0,,0,,,,,,,,45.4915,31.6426
+HIL,2,53,,Al-Ḥilah,الحلة,,,,,,,0,248691069,node,99347,uncertain (mod. Hillah),https://en.wikipedia.org/wiki/Hillah,https://ar.wikipedia.org/wiki/الحلة,,,,,44.4361,32.4844
+HJR,1,0,,Al-Ḥajar,الحجر,,,,,,,932429,0,,0,,,,,,,,50.5137,26.2151
+HLF,3,0,Guzana,Tall Ḥalaf,تل حلف,,,,,,,874739,573540773,node,0,,,,,,,,40.0399,36.8268
+HLT,1,0,,Hala Sultan Tekes,,,,,Τεκές Χαλά Σουλτάνας,,,0,0,,0,,0,,,,,,33.6059,34.8856
+HLW,3,235,,Tall Ḥalāwah,تل حلاوة,,,,,,,0,2486175316,node,6647836,uncertain (mod. Abu Halawa),,,,,,,44.4874,33.4258
+HMD,3,117,,Hamadān,همدان,,,,,,,903021,0,,0,uncertain (mod. Hamadan),https://en.wikipedia.org/wiki/Ecbatana,,https://fa.wikipedia.org/wiki/هگمتانه,,,,48.5171,34.8043
+HMM,1,0,,Ḥammām,حمام,,,,,,,0,0,,0,,,,,,,,38.1781,36.6413
+HMR,3,174,,Sulaiymah,سليمه,,,,,,,0,0,,98776,uncertain (mod. Himrin) : uncertain (mod. Sulaima) : uncertain (mod. Tell Suleimah),0,0,,,,,45.1034,34.1677
+HMT,3,36,,Tall Ḥammām al-Turkmān,تل حمام التركمان,,,,,,,874741,567061069,node,169978,uncertain (mod. Tell Hammam et-Turkman),https://en.wikipedia.org/wiki/Tell_Hammam_et-Turkman,,,,,,39.0569,36.4825
+HOR,2,0,,Tepe Horreeye,,,Unknown,,,,,0,0,,0,,,,,,,,48.5022,32.0313
+HPK,1,0,Unknown,Hazine Piri Kapısı,,,,,,,,0,0,,0,,,,,,,,43.3045,38.4069
+HRD,3,276,Haradum,Khirbat al-Diniyah,خربة الدينية,,,,,,,894003,0,,0,Haradum (mod. Khirbet ed-Diniye),https://en.wikipedia.org/wiki/Haradum,https://ar.wikipedia.org/wiki/حرضوم,,,,,41.5866,34.4611
+HRE,3,0,,Ηeraio Samou,,,,Ηραίο Σάμου,,,,599641,37451039,way,9535175,,https://en.wikipedia.org/wiki/Heraion_of_Samos,,,https://el.wikipedia.org/wiki/Ηραίο_Σάμου,,,26.8860,37.6721
+HRP,1,0,,Harput,,,,,,,,0,97700117,way,7467408,,https://en.wikipedia.org/wiki/Harput_Castle,,,,,https://en.wikipedia.org/wiki/Harpoot,39.2573,38.7037
+HRT,1,0,Unknown,Harāt,هرات,,,,,,,961874,312432807,node,1140026,,,,,,,,62.1899,34.3453
+HSC,1,0,,Hasancıklı,,,,,,,,0,1881017574,node,10632543,,,,,,,,36.7917,37.6127
+HSI,2,437,,Tel Hesi,,,,,,תל חסי,,0,0,,293367,uncertain (mod. Tell el-Hesi),https://en.wikipedia.org/wiki/Tell_el-Hesi,,,,https://he.wikipedia.org/wiki/תל_חסי,,34.7307,31.5474
+HSK,1,0,,Hasankeyf,,,,,,,,874664,6945084910,node,312479,,https://en.wikipedia.org/wiki/Hasankeyf,,,,,https://tr.wikipedia.org/wiki/Hasankeyf,41.4137,37.7137
+HSR,3,4,,Tapah Ḥiṣār,,,تپه حصار,,,,,942329,0,,7108432,uncertain (mod. Hissar),https://en.wikipedia.org/wiki/Tepe_Hissar,,https://fa.wikipedia.org/wiki/تپه%E2%80%8Cحصار,,,,54.3851,36.1544
+HUM,1,0,,Tulūl al-Hummar,Unknown,,,,,,,0,0,,0,,,,,,,,45.4998,31.6166
+HUZ,3,263,Huzirina,Sultantepe,,,,,,,,249509021,129412106,way,300175,Huzirina (mod. Sultantepe),https://en.wikipedia.org/wiki/Sultantepe,,,,,https://tr.wikipedia.org/wiki/Sultantepe_Höyüğü,38.9062,37.0501
+HWS,3,95,Ubasē,Tall Ḥuwaysh,تل حويش,,,,,,,0,0,,0,uncertain (mod. Tell Huweish),,,,,,,43.2304,35.5931
+HYK,3,0,,Çatal Höyük,,,,,,,,572486151,117205145,way,438338,,,,,,,,36.5456,36.2977
+IBA,3,264,Unknown,Tall Ibrāhīm Bayis,تل ابراهيم بايس,,,,,,,0,460334102,way,6869902,uncertain (mod. Old Makhmur),,,,,,,43.5551,35.7742
+IDH,3,138,,Ishān Dhahak,إشان ذهك,,,,,,,0,0,,0,uncertain (mod. Ishan-Dhahak),,,,,,,44.8341,32.7104
+IDU,3,387,Idu,Sātū Qalā,ساتو قلا,,,,,,,0,2488271717,node,91451,Idu (mod. Hīt),https://en.wikipedia.org/wiki/Idu_(city),,,,,,44.6965,35.8739
+IHF,1,301,,Ishān Hāfudh,إشان حافذ,,,,,,,0,0,,0,uncertain (mod. Išān Hāfudh),,,,,,,45.4207,31.9569
+IHN,3,94,,Ras Ibn Hānī,رأس ابن هاني,,,,,,,668262,145160684,way,8472225,uncertain (mod. Ibn Hani),https://en.wikipedia.org/wiki/Ras_Ibn_Hani,https://ar.wikipedia.org/wiki/رأس_ابن_هاني,,,,,35.7348,35.5870
+INA,2,0,,İnandık,,,,,,,,0,2709024851,node,0,,,,,,,https://en.wikipedia.org/wiki/İnandıktepe,33.5352,40.3810
+IRS,2,48,Irisagrig,Unknown,,,,,,,,0,0,,0,Irisagrig (mod. uncertain),,,,,,,45.3689,32.1529
+ISN,3,303,Isin,Īšān Baḥrīyāt,إشان نحريات,,,,,,,912868,2482345014,node,6731770,Isin (mod. Bahriyat),https://en.wikipedia.org/wiki/Isin,https://ar.wikipedia.org/wiki/إيسن,,,,,45.2688,31.8852
+JAN,2,0,,Janfida,,Ջանֆիդա,,,,,,0,1248972714,node,616735,,https://en.wikipedia.org/wiki/Janfida,,,,,,44.0276,40.0419
+JAV,1,0,Unknown,Jawānqal‘h,,,جوان قلعه,,,,,0,0,,0,,0,,,,,,45.9564,37.4913
+JDD,1,93,,Jadīdah,جديدە,,,,,,,945906724,0,,0,uncertain (mod. Jedide),,,,,,,42.0326,34.3826
+JDG,1,224,,Cudi Dağı,,,,,,,,471828778,1921992648,node,317981,uncertain (mod. Judi Dagh),https://en.wikipedia.org/wiki/Mount_Judi,,,,,https://tr.wikipedia.org/wiki/Cudi_Dağı,42.3668,37.3838
+JDR,2,318,,Tall Jidar,تل جدر,,,,,,,912957,0,,0,uncertain (mod. Tell Jidr),0,,,,,,45.7032,31.8254
+JIR,1,169,,Jīroft,جیرفت,,,,,,,0,0,,0,,,,,,,,57.7792,28.4634
+JMM,3,0,,Tel Gamma,,,,,,תל גמה,,309101265,0,,293380,,https://en.wikipedia.org/wiki/Tell_Jemmeh,,,,https://he.wikipedia.org/wiki/תל_גמה,,34.4450,31.3872
+JOK,3,154,Umma,Tall Jūka,تا جوكة,,,,,,,44626252,0,,95090,Umma (mod. Tell Jokha),0,,,,,,45.8861,31.6669
+JOR,3,0,Unknown,Tul-i Ājuri,تل اجر,,,,,,,0,0,,0,,,,,,,,52.8549,29.9364
+JRD,3,42,,Jabal ‘Ārūdah,جبل عارودة,,,,,,,0,0,,0,uncertain (mod. Jebel Aruda),,,,,,,38.0984,36.2349
+JRO,3,0,,Jericho,,,,,,יְרִיחוֹ,,687917,458057319,,8067647,,https://en.wikipedia.org/wiki/Tell_es-Sultan,,,,https://he.wikipedia.org/wiki/תל_יריחו,,35.4441,31.8710
+JRW,3,142,,Jarāwanah,جراونة,,,,,,,248782116,2488232534,node,0,uncertain (mod. Jerwan),https://en.wikipedia.org/wiki/Jerwan,,,,,,43.3934,36.6697
+JUH,3,0,,Tall Jūkha,تل جوخة,,,,,,,0,0,,0,,,,,,,,43.6918,33.3424
+JWN,3,121,,Tulūl Abū Jāwan,تلول أبو جاون,,,,,,,894161,2488008331,node,6806251,uncertain (mod. Abu Jawan),,,,,,,44.8070,33.1337
+KAB,1,413,,Kabrīt,كبريت,,,,,,,0,0,,0,uncertain (mod. Kabret),,,,,,,32.4914,30.2285
+KAD,1,0,,Kadembas,,,,,,,,0,0,,0,,,,,,,,43.2312,38.4084
+KAH,2,394,Marqasi,Kahramanmaraş,,,,,,,,658474,26480875,node,310859,Marqasu (mod. Kahramanmaraş),https://en.wikipedia.org/wiki/Marash,,,,,https://tr.wikipedia.org/wiki/Kahramanmaraş,36.9253,37.5870
+KAI,1,0,,Kaisaran,,,,,,,,0,0,,0,,,,,,,,43.6446,38.4660
+KAL,3,0,,Kāmid al-Lūz,كامد اللوز,,,,,,,0,226315831,way,0,,,,,,,,35.8210,33.6235
+KAR,3,0,,Al-Karnak,الكرنك,,,,,,,786050,298144107,way,9073433,,https://en.wikipedia.org/wiki/Karnak,https://ar.wikipedia.org/wiki/الكرنك,,,,,32.6586,25.7168
+KAS,1,415,Uncertain,Kastri,,,,,Καστρί,,,570400,0,,0,"uncertain (mod. Kastri, Cythera, Greece)",0,,,,,,22.9979,36.2584
+KAY,3,0,Šamuḫa,Kayalıpınar,,,,,,,,0,183419371,way,0,,0,,,,,"tr.wikipedia.org/wiki/Kayalıpınar,_Yıldızeli",36.5279,39.6211
+KAZ,1,0,Unknown,Kazancı,,,,,,,,0,1951322084,node,743613,,,,,,,,44.0255,40.0064
+KBL,2,0,,Chaman-i Ḥaz̤ūrī,,,چمن حضوری,,,,,0,25866709,way,9166131,,https://en.wikipedia.org/wiki/Chaman-e-Hozori,,,,,,69.1954,34.5153
+KBN,3,100,Kabnak,Haft Tapah,هفت تپه,,,,,,,379400932,0,,0,Kabnak (mod. Haft Tepe),https://en.wikipedia.org/wiki/Haft_Tepe,,https://fa.wikipedia.org/wiki/هفت%E2%80%8Cتپه,,,,48.3276,32.0803
+KCT,1,0,,Koçyatağı,,,,,,,,0,0,,0,,,,,,,,41.4978,39.2805
+KDH,1,0,,Qandahār,,,قندهار,,,,,59669,0,,0,,https://en.wikipedia.org/wiki/Alexandria_Arachosia,,,,,,65.6588,31.6025
+KDR,3,0,,Al-Khiḍr,الخضر,,,,,,,0,0,,0,,,,,,,,48.2880,29.4657
+KEB,2,0,,Kenk Boǧazı,,,,,,,,842949950,0,,0,,,,,,,,37.8436,37.2506
+KEC,2,0,,Keçikıran,,,,,,,,0,2284818560,node,6969127,,,,,,,,43.6345,38.9714
+KEL,1,0,Unknown,Kalīshīn,كليشين,,,,,,,0,2488199222,node,93750,,https://en.wikipedia.org/wiki/Kelashin_Stele,ar.wikipedia.org/wiki/مسلة_كله_شين,,,,,44.8994,36.9171
+KEV,2,0,,Kevenli,,,,,,,,0,1482093850,node,307979,,,,,,,,43.4475,38.4746
+KFA,1,0,,Kūlfaraḥ,,,کول‌فرح,,,,,0,4857790525,node,126291,,0,,,,,,49.9286,31.8706
+KFI,3,414,Unknown,Kāmfīrūz,,,کامفیروز,,,,,0,1753687451,node,0,uncertain (mod. Kam-Firouz),https://en.wikipedia.org/wiki/Kamfiruz,,https://fa.wikipedia.org/wiki/کامفیروز,,,,52.1962,30.3241
+KFK,2,0,,Kef Kalesi,,,,,,,,0,183026112,way,0,,,,,,,,42.7191,38.8334
+KHA,3,0,,Tall Khaibar,تل خيبر,,,,,,,0,2482459138,node,0,,,,,,,,45.9328,31.0593
+KHI,3,0,,Tapah Khībr,,,تپه خیبر,,,,,0,3524795054,node,6684057,,,,,,,,46.6409,34.5441
+KHR,2,409,Unknown,Al-Kharjah,الخرجة,,,,,,,776181,768717700,node,353686,uncertain (mod. El-Khargeh),https://en.wikipedia.org/wiki/Temple_of_Hibis,https://ar.wikipedia.org/wiki/معبد_هيبس,,,,,30.5552,25.4764
+KHT,3,300,Kahat,Tall Barri,تل بري,,,,,,,874732,371876539,way,420334,Kahat (mod. Tell Barri),https://en.wikipedia.org/wiki/Tell_Barri,https://ar.wikipedia.org/wiki/تل_بري,,,,,41.1270,36.7386
+KHW,2,19,,Khān Ḥaswā,خان حسوا,,,,,,,0,0,,0,uncertain (mod. Khan Haswa) ?,,,,,,,44.4016,32.8277
+KKA,3,0,,Kawala Kandal,Unknown,,,,,,,0,0,,0,,,,,,,,43.6532,35.8079
+KKH,3,230,,Üçtepe,,,,,,,,874418,281267700,way,0,uncertain (mod. Kurkh),0,,,,,,40.5397,37.8260
+KKL,1,0,Unknown,Karakala,,Unknown,,,,,,0,0,,616584,,,,,,,,43.8488,40.0487
+KKU,1,0,,Khirbet Kusiya,,,,,,Unknown,,0,0,,0,,,,,,,,35.0062,32.4242
+KLB,2,292,,Nahr al-Kalb,نهر الكلب,,,,,,,2970016,0,,0,uncertain (mod. Nahr el-Kelb),https://en.wikipedia.org/wiki/Stelae_of_Nahr_el-Kalb,https://ar.wikipedia.org/wiki/آثار_نهر_الكلب,,,,,35.5966,33.9554
+KLC,2,0,Unknown,Kalecik,,,,,,,,0,1860375461,node,0,,0,,,,,,43.3377,38.5459
+KLK,1,0,,Kaleköy,,,,,,,,2793986,1491510556,node,298676,,,,,,,,39.6584,39.0253
+KML,3,0,Kar-Mullissi,Tall al-Qaddīsah Barbārah,تل القديسة بربارة,,,,,,,0,4470758281,node,6860783,,https://en.wikipedia.org/wiki/Karemlash,https://ar.wikipedia.org/wiki/كرمليس,,,,,43.4095,36.3056
+KMN,2,0,,Kimūnah,كمونة,,,,,,,0,0,,0,,,,,,,,42.7304,36.7713
+KMS,2,0,,Kamışvan,,,,,,,,0,0,,310597,,,,,,,,42.9701,39.2345
+KNB,2,0,,Kānī Bī,کانی بی,,,,,,,0,2488273707,node,94957,,,,,,,,44.8358,35.8810
+KNS,3,291,Kanesh,Kültepe,,,,,,,,628923,13858887,way,0,Kanesh (mod. Kültepe),https://en.wikipedia.org/wiki/Kültepe,,,,,https://tr.wikipedia.org/wiki/Kültepe,35.6365,38.8517
+KOC,2,0,,Koçaklar,,,,,,,,0,2291750324,node,306944,,,,,,,,42.7035,39.2310
+KOK,2,0,,Köşk,,,,,,,,0,2296998026,node,306281,,,,,,,,43.7223,38.9322
+KOR,2,0,Unknown,Körzüt,,,,,,,,0,2296998066,node,298387,,,,,,,,43.7350,38.8877
+KOS,3,416,,Konār Sandal,,,کنار صندل,,,,,0,5212488922,node,0,uncertain (mod. Konar Sandal),,,,,,,57.7787,28.4494
+KOT,1,0,,Kotanlı,,,,,,,,0,2296271945,node,306242,,,,,,,,42.2482,39.1412
+KOU,2,375,Unknown,Kourion,,,,,Koúριov,,,707549,24698251,way,146671,Kourion (mod. Cyprus),https://en.wikipedia.org/wiki/Kourion,,,https://el.wikipedia.org/wiki/Κούριο,,,32.8844,34.6666
+KRC,1,0,,Karacaören,,,,,,,,0,0,,0,,,,,,,,36.7554,39.8534
+KRG,2,0,Unknown,Karagündüz,,,,,,,,0,1482093825,node,309839,,,,,,,,43.6459,38.6955
+KRH,1,0,Unknown,Karahan,,,,,,,,0,2296675532,node,6969130,,,,,,,,43.6607,38.9493
+KRI,1,0,,Kayseri,,,,,,,,0,26482287,node,308464,,,,,,,,35.4614,38.7309
+KRK,3,270,Karkemish,Jarāblus,جرابلس,,,,,,,658465,183691261,way,0,Karkemish (mod. Djerabis),,,,,,,38.0156,36.8294
+KRM,1,247,,Kermānshāh,,,کرمانشاه‎,,,,,0,32663279,node,128226,uncertain (mod. Kermanshah) ?,https://en.wikipedia.org/wiki/Kermanshah,,https://fa.wikipedia.org/wiki/کرمانشاه,,,,47.0649,34.3140
+KRT,1,0,,Karataş,,,,,,,,0,0,,0,,,,,,,,43.3963,39.0109
+KSH,3,71 : 85 : 184 : 281 : 391,Kiš,Kīsh,كيش,,,,,,,894028,545656327,way,94277,Uhaimir-Kish (mod. Tell Uhaimir) : Kish (mod. Tell Ingharra) : Kish (mod. Tell Uhaimir) : Hursagkalama (mod. Ingharra) : Kish (mod. Tell el-Bender),https://en.wikipedia.org/wiki/Kish_%28Sumer%29,https://ar.wikipedia.org/wiki/كيش,,,,,44.5949,32.5455
+KSI,3,0,,Kānī Shāyah,كاني شاية,,,,,,,0,0,,0,,0,,,,,,45.1764,35.5579
+KSK,3,190,Šarišša,Kuşaklı,,,,,,,,117143016,14839680,way,0,uncertain (mod. Kuşaklı),https://en.wikipedia.org/wiki/Kuşaklı,,,,,https://tr.wikipedia.org/wiki/Sarissa,36.9096,39.3084
+KSM,2,0,Unknown,Kasımoğlu,,,,,,,,0,2301631728,node,308906,,,,,,,,43.4150,38.6846
+KSN,3,0,,Tel Keisan,,,,,,תל כיסון,,0,278474482,node,293364,,https://en.wikipedia.org/wiki/Tell_Keisan,,,,https://he.wikipedia.org/wiki/תל_כיסון,,35.1508,32.8730
+KSR,3,314,Kisurra,Ishān Abū Ḥaṭab,إشان أبو حطب,,,,,,,0,2480223297,node,6731778,Kisurra (mod. Abu Hatab),https://en.wikipedia.org/wiki/Kisurra,https://ar.wikipedia.org/wiki/كيشورا,,,,,45.4810,31.8383
+KSX,1,0,,Kuhanak,,,کهنک,,,,,0,0,,0,,,,,,,,48.6185,32.2683
+KTN,3,234,Kar-Tukulti-Ninurta,Tulūl al-‘Aqir,تلول الأقر,,,,,,,430344980,2482644200,node,6837593,Kar-Tukulti-Ninurta (mod. Tulul al-ʿAqir),https://en.wikipedia.org/wiki/Kar-Tukulti-Ninurta,,,,,,43.2793,35.4944
+KUB,1,427,,Kūbrī,كوبري,,,,,,,0,0,,6412799,uncertain (mod. Suez),,,,,,,32.5527,30.1130
+KUM,1,0,,Ishan Abū Kumbārah,ايشان أبو كمبارة,,,,,,,0,0,,0,,,,,,,,46.1954,31.0535
+KUN,3,0,,Kūnārā,كونـارا,,,,,,,0,682142302,way,0,,0,,,,,,45.3594,35.5192
+KUS,2,0,,Kuşsaray,,,,,,,,0,1162011234,node,7742460,,"en.wikipedia.org/wiki/Kuşsaray,_Çorum",,,,,"tr.wikipedia.org/wiki/Kuşsaray,_Çorum",35.1097,40.6061
+KZK,1,20,,Kizkapanlı,,,,,,,,193878353,1419890174,node,307054,uncertain (mod. Kizkapanlı),,,,,,,37.2850,37.3950
+KZL,3,0,Ṣumur,Tall Kazal,تل كزل,,,,,,,0,497183149,way,163525,,https://en.wikipedia.org/wiki/Tell_Kazel,,,,,,35.9862,34.7085
+KZN,3,0,,Kazane Höyük,,,,,,,,0,183463046,way,0,,,,,,,https://tr.wikipedia.org/wiki/Kazane_H%C3%B6y%C3%BCk,38.8460,37.1196
+LAG,3,39,Lagaš,Tall al-Hibā,تل الهبا,,,,,,,959120263,2485672508,node,7025350,Lagash (mod. El-Hiba),https://en.wikipedia.org/wiki/Lagash,https://ar.wikipedia.org/wiki/لجش,,,,,46.4108,31.4182
+LAR,3,168,Larsa,Tall al-Sankarah,تل السنكرة,,,,,,,912897,2487982264,node,91560,Larsa (mod. Tell as-Senkereh),https://en.wikipedia.org/wiki/Larsa,https://ar.wikipedia.org/wiki/لارسا,,,,,45.8549,31.2832
+LCJ,1,0,,Lchajen,,Լճաշեն,,,,,,0,0,,0,,,,,,,,44.9418,40.5074
+LHM,3,33,,Tall al-Laḥam,تل اللحم,,,,,,,912953,2485672093,node,6735862,uncertain (mod. Tell al-Lahm) : uncertain (mod. Tell Lahm),https://en.wikipedia.org/wiki/Kuara_(Sumer),https://ar.wikipedia.org/wiki/كوارا,,,,,46.3659,30.7740
+LIY,1,0,Liyan,Būs̱har,,,بوشهر‎,,,,,0,8919905,relation,139817,,,,,,,,50.8744,28.8853
+LMA,2,0,,Lamā,,,لما,,,,,0,4466316458,node,0,,,,,,,,51.2172,31.0449
+LRK,3,132,Larak,Tall Wilāiyah,تل ولاية,,,,,,,762762282,552345976,way,8608191,Larak (mod. Tell Wilayah) : Kesh (mod. Wilaya ?),,,,,,,45.6602,32.3127
+LSB,3,75 : 196,,Tall al-Sīb,تل السيب,,,,,,,0,0,,0,uncertain (mod. As-Sib) : uncertain (mod. Tell es-Seeb),,,,,,,45.0580,34.1929
+MAL,1,0,,Malazgirt,,,,,,,,0,127629141,node,304916,,,,,,,,42.5409,39.1461
+MAR,3,161,Mari,Tall Ḥarīrī,تل حريري,,,,,,,286681704,226857776,way,9204031,Mari (mod. Tell Hariri),https://en.wikipedia.org/wiki/Mari%2C_Syria,https://ar.wikipedia.org/wiki/مملكة_ماري,,,,,40.8887,34.5504
+MAV,2,0,,Mawānā,,,موانا,,,,,0,1570147381,node,124571,,,,,,,,44.7952,37.5734
+MCH,1,0,,Mikhmoret,,,,,,מִכְמֹרֶת,,678288,0,,0,,,,,,,,34.8659,32.4013
+MCQ,2,0,,Unknown,Unknown,,,,,,,0,0,,0,,,,,,,,45.3936,32.1490
+MCY,2,0,,Dibbin,Unknown,,,,,,,0,0,,0,,,,,,,,45.6611,31.8977
+MCZ,2,0,,Tall al-Disim,Unknown,,,,,,,0,0,,0,,,,,,,,45.3929,32.1415
+MDB,3,0,Azamhul,Tall Muḥamad Diyāb,تل محمد دياب,,,,,,,957515415,567215551,node,163493,,,,,,,,41.5642,36.9243
+MET,3,0,,Metsamor,,,,,,,,517771600,338584833,way,11224588,,https://en.wikipedia.org/wiki/Metsamor_site,,,,,,44.1869,40.1264
+MGD,3,272,,Megiddo,,,,,,מגידו,,26356565,7548260,relation,293357,uncertain (mod. Megiddo),https://en.wikipedia.org/wiki/Tel_Megiddo,,,,https://he.wikipedia.org/wiki/תל_מגידו,,35.1828,32.5822
+MHD,3,0,,Maḥmūd Ābād,,,محمودآباد,,,,,0,0,,0,,,,,,,,45.1294,37.3669
+MHN,2,0,Unknown,Māhān,,,ماهان,,,,,0,459011369,way,125427,,,,,,,,57.2900,30.0598
+MHO,3,5,Tapigga,Maşat Höyük,,,,,,,,133411593,169479727,way,0,uncertain (mod. Masat Höyük),https://en.wikipedia.org/wiki/Maşat_Höyük,,,,,https://tr.wikipedia.org/wiki/Maşat_Höyük,35.7624,40.1481
+MHR,1,0,Unknown,Meher Kapısı,,,,,,,,0,0,,0,,,,,,,,43.3875,38.5182
+MIT,2,0,,Tall Mīthlay,تل ميثلي,,,,,,,0,0,,0,,,,,,,,42.1377,36.7586
+MKA,1,0,,Mergeh Karvan,,,Unknown,,,,,0,0,,0,,,,,,,,44.9669,36.9425
+MLD,3,395,Melid,Arslantepe Höyüğü,,,,,,,,25078867,183451728,way,0,Melidu (mod. Arslantepe),https://en.wikipedia.org/wiki/Melid,,,,,https://tr.wikipedia.org/wiki/Arslantepe,38.3612,38.3820
+MLH,1,0,,Tall Imlīḥiyah,تل أمليحية,,,,,,,0,0,,0,,,,,,,,45.0031,34.1961
+MLK,1,0,,Mukhattat,Unknown,,,,,,,0,0,,0,,,,,,,,44.4962,32.3370
+MMG,1,62,,Mila Mergi,,,,,,,,649834357,0,,0,uncertain (mod. Mila Mergi),,,,,,,42.9136,37.0060
+MOA,2,0,,Tall Muḥamad ‘Arab,تل محمد عرب,,,,,,,874749,0,,0,,0,,,,,,42.8893,36.6346
+MQS,1,0,,Al-Maqsha,المقشة,,,,,,,0,0,,0,,0,,,,,,50.5112,26.2198
+MRD,3,223,Marad,Tall Ṣadūm,تل صدوم,,,,,,,912901,3377362692,node,6788812,Marad (mod. Wanna-wa-Sadum),,,,,,,44.7851,32.0917
+MRJ,2,0,,Al-Marjab,المرجب,,,,,,,310449388,6637725155,node,0,,https://en.wikipedia.org/wiki/Marad,https://ar.wikipedia.org/wiki/ماراد,,,,,46.1575,30.8627
+MRL,3,0,,Mārlīk,,,مارلیک,,,,,745058470,0,,0,,https://en.wikipedia.org/wiki/Marlik,,https://fa.wikipedia.org/wiki/مارلیک,,,,49.5019,36.8528
+MRM,1,0,Unknown,Marmachyn,,Մարմաշեն,,,,,,0,0,,0,,,,,,,,43.7525,40.8514
+MRN,2,0,Unknown,Mardin,,,,,,,,0,26487735,node,304797,,https://en.wikipedia.org/wiki/Mardin,https://ar.wikipedia.org/wiki/ماردين,,,,,40.7178,37.3246
+MRW,3,0,Unknown,Tall Marwāny,تل مرواني,,,,,,,0,573457545,node,0,,,,,,,,40.6627,34.8669
+MSH,3,0,Kar-Assurnazirpal,Tall Masaikh,جبل مسئخ,,,,,,,0,573457783,node,385914,,https://sv.wikipedia.org/wiki/Jabal_Masa%27ikh,,,,,,40.5553,34.9738
+MSK,3,192,Maškan-šapir,Tall Abū Duwārī,تل أبو دواري,,,,,,,715980704,0,,0,Maškan-šapir (mod. Tell Abu Duwari),https://en.wikipedia.org/wiki/Mashkan-shapir,https://ar.wikipedia.org/wiki/مشكان-_شابير,,,,,45.2207,32.4055
+MUG,3,3,Mukdan,Umm al-Jīr,أم الجير,,,,,,,0,0,,0,uncertain (mod. Mugdan) : uncertain (mod. Umm al-Jir),,,,,,,44.8501,32.6497
+MUH,2,0,Unknown,Muhrapert,,,,,,,,0,1482093793,node,313920,,,,,,,,42.9157,38.3461
+MUR,2,0,,Muradiye,,,,,,,,0,127550920,node,9815319,,https://en.wikipedia.org/wiki/Muradiye,,,,,tr.wikipedia.org/wiki/Muradiye,43.7634,38.9913
+MUS,2,0,,Muş,,,,,,,,0,26486736,node,304081,,https://en.wikipedia.org/wiki/Muş,,,,,https://tr.wikipedia.org/wiki/Muş,41.4794,38.7330
+MZA,3,262,,Ishān Miziyad,إشان مزياد,,,,,,,0,953862440,way,0,uncertain (mod. Mazyad),,,,,,,44.5561,32.5932
+MZT,3,0,,Mezraa Teleilat,,,,,,,,0,183688350,node,0,,0,,,,,,37.9859,36.9773
+NAB,3,260,Nabada,Tall Baiydar,تل بيدر,,,,,,,423885388,226879817,way,171645,uncertain (mod. Beydar),https://en.wikipedia.org/wiki/Tell_Beydar,https://ar.wikipedia.org//wiki/تل_بيدر,,,,,40.5872,36.7381
+NAL,1,0,Unknown,Nalbandyan,,Նալբանդյան,,,,,,0,292767301,way,616385,,,,,,,,43.9873,40.0628
+NAS,1,0,Unknown,Nashteban,,,Unknown,,,,,0,0,,0,,,,,,,,47.8013,38.0076
+NAZ,1,0,,Anaz,,,,,,,,713816456,1918268689,node,0,,,,,,,,39.0270,37.1400
+NER,2,296,Nereb,Naiyrab,نيرب,,,,,,,633912597,0,,0,Nereb (mod. Neirab) ?,,,,,,,37.2265,36.1777
+NGB,3,273,,Nigūb,نگوب,,,,,,,413309737,0,,0,uncertain (mod. Negub tunnel),0,,,,,,43.4762,36.0446
+NGN,3,40 : 399,Nigin,Īshān Zurghul,ايشان زرغل,,,,,,,912909,2485672107,node,7024991,Nigin (mod. Surghul) : Sirara (mod. Tell Zurghul),,,,,,,46.4948,31.3777
+NHV,1,28,,Nihāwand,نهاوند,,,,,,,903088,12941876,relation,122915,uncertain (mod. Nihavand ?),,,,,,,48.3769,34.1889
+NIM,3,81 : 229,Kalhu,Nimrūd,نمرود,,,,,,,894019,295528281,way,93006,"Kalhu (mod. Nimrud) : uncertain (mod. Tawfiqiyah, nearby) : uncertain (mod. Tawfiqiyah)",https://en.wikipedia.org/wiki/Nimrud,https://ar.wikipedia.org/wiki/كالح,,,,,43.3385,36.1022
+NIP,3,22,Nippur,Nufar,نفر,,,,,,,912910,7316513646,node,92882,Nippur (mod. Nuffar),https://en.wikipedia.org/wiki/Nippur,,,,,,45.2300,32.1271
+NJF,3,392,,Najafābād,,,نجف‌آباد,,,,,0,4541037056,node,122847,Kišesim (mod. Najafabad),,,,,,,47.9761,34.6527
+NKM,1,0,Unknown,Новый Кумак,,,,,,,,0,1419404944,node,6268312,,,,,,,,58.6555,51.2297
+NNV,3,279 : 86,Nineveh,Nīnūa,نينوى,,,,,,,874621,202644722,way,92878,Nineveh (mod. Kuyunjik) : Nineveh (mod. Nebi Yunus),https://en.wikipedia.org/wiki/Nineveh,https://ar.wikipedia.org/wiki/نينوى,,,,,43.1621,36.3582
+NOR,2,0,,Noragavid,,Նորագավիթ,,,,,,0,130654553,way,616360,,,,,,,,44.4743,40.1198
+NQS,3,422,Unknown,Naqsh Rustam,,,نقش رستم,,,,,0,235636111,node,122681,uncertain (mod. Naqš-i-Rustam),"https://en.wikipedia.org/wiki/Kastri,_Cythera",https://ar.wikipedia.org/wiki/نفر,https://fa.wikipedia.org/wiki/نقش_رستم,,,,52.8745,29.9885
+NRB,3,245,Nerebtum,Ishẖālī,أشخالي,,,,,,,0,6411927106,node,91213,Nerebtum (mod. Iščali),https://en.wikipedia.org/wiki/Tell_Ishchali,,,,,,44.5828,33.3029
+NRK,1,0,,Namrīk,نمريك,,,,,,,0,0,,0,,https://en.wikipedia.org/wiki/Nemrik_9,,,,,,42.8822,36.7241
+NSB,3,312,,Tall al-Naṣbah,تل النصبة,,,,,תל אנצבה,,0,2675850287,node,0,uncertain (mod. Tell en-Nasbeh),https://en.wikipedia.org/wiki/Tell_en-Nasbeh,,,,https://he.wikipedia.org/wiki/תל_א-נצבה,,35.2166,31.8851
+NSR,3,159,,Jamdat Naṣr,جمدة نصر‎,,,,,,,733910291,533484067,way,95275,uncertain (mod. Jemdet Nasr),https://en.wikipedia.org/wiki/Jemdet_Nasr,https://ar.wikipedia.org/wiki/جمدة_نصر,,,,,44.7796,32.7181
+NUZ,3,222,Gasur,Yūrghān Tapah,يورغان تبة,,,,,,,894054,533930506,way,89610,Gasur (mod. Yorgan Tepe) : Nuzi (mod. Yorgan Tepe),https://en.wikipedia.org/wiki/Nuzi,https://ar.wikipedia.org/wiki/نوزي,,,,,44.2546,35.3717
+OJA,1,0,Unknown,Ojasar-Ilandağ,,,,,,,,0,0,,0,,,,,,,,45.6251,39.1370
+ORD,2,0,,Ortadamla,,,,,,,,0,2291750333,node,6970683,,,,,,,,43.0496,39.2058
+ORT,3,283,Sapinuwa,Ortaköy,,,,,,,,964671598,242232762,way,0,uncertain (mod. Ortaköy),https://en.wikipedia.org/wiki/Sapinuwa,,,,,,35.2375,40.2541
+OTK,1,0,Unknown,Ortakent,,,,,,,,0,0,,0,,0,,,,,,42.8815,41.2235
+OYH,3,0,,Oylum Höyük,,,,,,,,275382665,174871851,way,0,,,,,,,https://tr.wikipedia.org/wiki/Oylum_Höyük,37.1786,36.6988
+OZB,3,64,,Ozbaki,,,,,,,,0,346040742,way,0,uncertain (mod. Ozbaki),0,,,,,,50.5866,35.9799
+PAL,2,155,,Tadmur,تدمر,,,,,,,668331,91460784,way,163809,uncertain (mod. Palmyra),https://en.wikipedia.org/wiki/Palmyra,https://ar.wikipedia.org/wiki/تدمر,,,,,38.2694,34.5522
+PAS,3,396,Pašime,Tall Abū Shījah,تل أبو شيجة,,,,,,,108542249,654581393,way,0,Pašime (mod. Tell Abu Sheeja),https://en.wikipedia.org/wiki/Pashime,,,,,,47.1479,32.3944
+PAT,1,0,Unknown,Patnos,,,,,,,,874529,127600285,node,302819,,https://en.wikipedia.org/wiki/Patnos,,,,,https://tr.wikipedia.org/wiki/Patnos,42.8640,39.2332
+PDK,1,112 : 443,Padakku,Al-Ḥāīṭ,الحايط,,,,,,,982176368,0,,0,"uncertain (mod. Padakka/Ha'it, Saudi Arabia) : uncertain (mod. al Ḥā'iṭ Saudi Arabia)",,,,,,,40.4668,25.9786
+PEL,3,0,,Ṭabaqat Faḥl,طبقة فحل,,,,,,,678326,769451030,way,11396035,,https://en.wikipedia.org/wiki/Pella%2C_Jordan,https://ar.wikipedia.org/wiki/طبقة_فحل_(إربد),,,,,35.6130,32.4501
+PHG,3,0,Unknown,Fanagorii͡a,,,,,,,Фанагория,854724,1165252854,node,0,,,,,,,https://ru.wikipedia.org/wiki/Фанагория,36.9584,45.2759
+PHU,3,246,,Pir Hüseyin,,,,,,,,0,363579097,way,0,uncertain (mod. Pir Huseyin),,,,,,,40.3875,38.1113
+PIR,1,0,Unknown,Pirabat,,,,,,,,0,2292400154,node,302613,,,,,,,,42.5843,39.7530
+PLU,2,0,Unknown,Palu,,,,,,,,874383,2279983498,node,0,,,,,,,,39.9535,38.7023
+PRA,1,27,,Bārah,بارة,,,,,,,914118847,2488220303,node,97982,uncertain (mod. Pāra),0,,,,,,41.4851,36.3757
+PRS,3,92,Pārśa,Takht-i Jamshīd,.,,تخت جمشید,,,,,922695,95531795,way,110836,Pārśa (mod. Persepolis),https://en.wikipedia.org/wiki/Persepolis,,https://fa.wikipedia.org/wiki/تخت_جمشید,,,,52.8925,29.9343
+PSG,3,198,,Pasargad,,,پاسارگاد,,,,,922693,203395269,way,121340,Tall-I Takht (mod. Pasargadae),https://en.wikipedia.org/wiki/Pasargadae,,https://fa.wikipedia.org/wiki/پاسارگاد,,,,53.1768,30.2008
+QAB,3,0,Unknown,Tall Qabr Abu al-’Atīq,تل قبر ابو العتيق,,,,,,,0,0,,0,,,,,,,,39.7854,35.7630
+QAI,1,0,Unknown,Qal‘ah Imam,,,قلعه ایمام,,,,,0,2216153573,node,0,,,,,,,,46.1798,35.4880
+QAL,1,0,Unknown,Qalatgah,,,,,,,,874652,0,,0,,,,,,,,45.2208,37.0353
+QAN,3,11,,Qaṣr-i Abūnaṣr,,,قصر ابونصر,,,,,0,0,,119600,Qasr-i Abu Nasr (mod. uncertain),,,,,,,52.6252,29.5848
+QAT,3,242,Qatara,Tall al-Rimah,تل الرمة,,,,,,,356369838,499377166,way,6786680,Qatara (mod. Tell al Rimah),https://en.wikipedia.org/wiki/Tell_al-Rimah,https://ar.wikipedia.org/wiki/تل_الرماح,,,,,42.4500,36.2569
+QBR,3,233,,Tall Abū Qubur,تل أبو قبر,,,,,,,894110,0,,0,uncertain (mod. Tell Abu Qubur),0,,,,,,44.2185,33.1455
+QCH,2,0,Unknown,Qarah Jatān,قرة جتان,,,,,,,0,775121038,way,92440,,,,,,,,45.1914,35.7417
+QDS,3,0,Qadeš,Tall al-Nabī Mandū,تل النبي مندو,,,,,,,668291,183941422,way,168753,,,,,,,,36.5194,34.5570
+QHD,3,0,Unknown,Tall al-Hādī,تل الهادي,,,,,,,0,567215235,node,163577,,,,,,,,41.8650,36.8707
+QIT,3,0,,Tall al-Qiṭar,تل القطار,,,,,,,0,766039147,way,9082,,,,,,,,38.1803,36.3837
+QLD,3,0,,Qalat-i Dinka,Unknown,,,,,,,512491137,6661367327,way,0,,,,,,,,45.1328,36.1367
+QNT,2,0,,Qantīr,قنتير,,,,,,,0,0,,350767,,https://en.wikipedia.org/wiki/Pi-Ramesses,https://ar.wikipedia.org/wiki/بر-رمسيس,,,,,31.8345,30.8017
+QQN,3,189,,Qaqun,قاقون,,,,,קאקון,,0,0,,10194030,uncertain (mod. Kibbutz Hama-apil),https://en.wikipedia.org/wiki/Qaqun,,,,https://he.wikipedia.org/wiki/קאקון,,34.9950,32.3593
+QSH,3,302,Kilizu,Qaṣr Shimāmūk,قصر شماموك,,,,,,,894027,460245093,way,0,Kilizu (mod. Qasr Shamamuk),0,,,,,,43.7514,36.1039
+QTN,3,0,Qaṭnā,Tall al-Mishrifah,تل المشرفة,,,,,,,412342122,226839682,way,0,,https://en.wikipedia.org/wiki/Al-Mushrifah,https://ar.wikipedia.org/wiki/المشرفة_(حمص),https://fa.wikipedia.org/wiki/المشرفه,,,,36.8663,34.8346
+QUA,3,158 : 185,Apqu-ša-Adad,Tall Abū Māriyā,ال أبو ماريا,,,,,,,874723,3323901446,node,0,uncertain (mod. Abu-Maria) : Apqu-ša-Adad (mod. Tell Abu Marya) : uncertain (mod. Abu-Maria),0,,,,,,42.5973,36.4295
+QUF,1,0,Unknown,Qufṭ,قفـط,,,,,,,786010,332074724,node,350560,,https://en.wikipedia.org/wiki/Qift,https://ar.wikipedia.org/wiki/قفط,,,,,32.8158,25.9966
+RAJ,3,,,Al-Rajībah,الرجيبة,,,,,,,0,0,,0,,,,,,,,45.9690,30.9047
+RAM,1,0,,Rās al-Maṭbakh,راس مطبخ,,,,,,,0,0,,289727,,0,,,,,,51.5690,25.6912
+RAZ,2,0,Unknown,Rāzlīq,,,رازلیق,,,,,0,4528892051,node,118634,,https://en.wikipedia.org/wiki/Razliq,,https://fa.wikipedia.org/wiki/رازلیق,,,,47.5496,38.0066
+RBT,3,0,Unknown,Tall ‘Arbīd,تل عربيد,,,,,,,0,567216178,node,173053,,https://en.wikipedia.org/wiki/Tell_Arbid,https://ar.wikipedia.org/wiki/تل_عربيد,,,,,41.0207,36.8728
+RKI,1,0,,Khārk,خارک,,,,,,,0,0,,0,,,,,,,,50.3091,29.2493
+RQI,3,0,,Tall al-Raqa‘i,Unknown,,,,,,,0,0,,0,,,,,,,,40.8521,36.4400
+RSL,3,0,Ursalimmu,Yrṿshlym,القدس,,,,,ירושלים,,687928,29090735,node,281184,,,,,,,,35.2358,31.7777
+RTA,1,60,Unknown,Rasm al-Ṭanjara,رسم ال طنجرة,,,,,,,0,3478055525,node,0,uncertain (mod. el-Ghab),,,,,,,36.3562,35.5872
+RTE,3,297,,Rabat Tapah,ربت تپه,,,,,,,0,0,,0,uncertain (mod. Rabat Tepe),https://en.wikipedia.org/wiki/Rabat_Tepe,,,,,,45.5397,36.2010
+RUS,3,218,Rusahinili,Toprakkale,,,,,,,,874771,0,,0,"Toprakkale, Eastern Anatolia",,,,,,,43.4064,38.5102
+RUT,1,0,,Rutschi Tig,,,,,,,Unknown,0,0,,799326,,,,,,,,43.7555,42.9889
+SAI,3,0,Unknown,Al-Sayāl,السيال,,,,,,,0,573457692,node,172451,,,,,,,,40.9096,34.5970
+SAL,2,0,,Salmanağa,,,,,,,,0,2284818565,node,6969119,,,,,,,,43.4345,39.0482
+SAM,3,360,Unknown,Shamīt,شميت,,,,,,,0,0,,0,Kian (Tell Shmid),,,,,,,45.8326,31.7477
+SAP,3,25,Sippar,Tall Abū Ḥabbah,تل أبو حبة,,,,,,,894089,456641882,way,6927414,Sippar-Yahrurum (mod. Tell Abu Habbah),https://en.wikipedia.org/wiki/Sippar,https://ar.wikipedia.org/wiki/سيبار,,,,,44.2552,33.0605
+SAR,3,290,Dur-Šarrukin,Khūrsabāṭ,خورسباط,,,,,,,874458,888859165,way,0,Dur-Šarrukin (mod. Khorsabad),https://en.wikipedia.org/wiki/Dur-Sharrukin,https://ar.wikipedia.org/wiki/دور_شروكين,,,,,43.2347,36.5035
+SAV,1,0,,Savacık,,,,,,,,0,1449289715,node,301457,,,,,,,"https://tr.wikipedia.org/wiki/Savacık,_Gürpınar",43.6173,38.4123
+SBA,1,308,,Sabā‘a,سباع,,,,,,,528477900,0,,0,uncertain (mod. Saba'a),,,,,,,41.0810,34.7579
+SBY,3,0,,Tall Ṣabī Ābiyaḍ,تل صبي أبيض,,,,,,,0,0,,0,,0,,,,,,39.0915,36.5057
+SCH,3,0,,Tall Balāṭah,تل بلاطة‎,,,,,שְׁכָם,,678403,5773512482,node,8070362,,https://en.wikipedia.org/wiki/Tell_Balata,,,,https://he.wikipedia.org/wiki/wiki/תל_בלאטה,,35.2827,32.2135
+SDM,2,400,Unknown,Surkh Dum Lurī,,,سرخ دم لـري,,,,,0,0,,0,Surkh Dum (mod. Luristan),,,,,,,47.7079,33.5064
+SDP,3,96 : 221,Šaduppûm,Tall Ḥarmal,تل حرمل,,,,,,,821129014,85884758,way,96040,Šaduppum (mod. Tell Harmal) : uncertain (mod. Tell Abu Harmal),https://en.wikipedia.org/wiki/Shaduppum,https://ar.wikipedia.org/wiki/تل_حرمل,,,,,44.4666,33.3098
+SEA,3,0,,Beit She'an,,,,,,בֵּית שְׁאָן‎,,678378,278473693,node,293387,,https://en.wikipedia.org/wiki/Beit_She%27an,,,,https://yi.wikipedia.org/wiki/בית_שאן,,35.5030,32.5046
+SEL,3,120,,Silūqīah,سلوقية,,,,,,,894178,353551437,way,89799,uncertain (mod. Seleucia) : Seleucia (mod. Tell 'Umar),https://en.wikipedia.org/wiki/Seleucia,https://ar.wikipedia.org/wiki/سلوقية,,,,,44.5213,33.0962
+SEQ,1,0,URULibliuni,Saqandal,,,سقندل,,,,,884203,0,,0,,,,,,,,46.7375,38.5041
+SER,1,0,,Sarābīūm,سرابيوم,,,,,,,727228,0,,0,,,,,,,,32.3260,30.4677
+SFR,3,167 : 210,Kutalla,Tall al-Sifr,تل سفر,,,,,,,0,0,,0,Kutalla (mod. Tell Sifr) : uncertain (mod. Tell Sifr),,,,,,,45.9672,31.2946
+SHD,1,280,,Shahdād,,,شهداد,,,,,0,732047429,node,115960,uncertain (mod. Shadad),,,,,,,57.7405,30.4279
+SHI,3,176 : 526,Šibaniba,Tall Billah,ال بلة,,,,,,,237391811,5285315356,node,0,Shibaniba (mod. Tell Billa) : Šibaniba (mod. Tell Billa),https://en.wikipedia.org/wiki/Shibaniba,,,,,,43.3481,36.4335
+SHP,1,0,,Shephela,,,,,,Unknown,,0,0,,0,,0,,,,,,34.8685,31.6283
+SHY,3,0,Unknown,Kārībahīn,كاري بهين,,,,,,,0,2488213215,node,96479,,,,,,,,42.9355,36.7760
+SHZ,1,0,Unknown,Sarıca,,,,,,,,0,2385090081,node,7010423,,,,,,,,40.4981,37.0445
+SID,3,144,,Ṣaiydā,صيدا,,,,,,,678393,4799206602,node,268064,uncertain (mod. Sidon) ?,https://en.wikipedia.org/wiki/Sidon,https://ar.wikipedia.org/wiki/صيدا,,,,,35.3697,33.5625
+SIH,1,0,,Sihke,,,,,,,,0,1860375423,node,320823,,,,,,,,43.4354,38.5072
+SIN,1,444,Unknown,Shīshīn,شيشين,,,,,,,0,0,,0,uncertain (mod. Šišin),,,,,,,42.5740,33.9716
+SIP,3,2,Sippar-Amnanum,Tall al-Daiyr,تل الدير,,,,,,,392373882,552319194,way,6927582,Sippar-Amnanum (mod. Tell ed-Der),https://en.wikipedia.org/wiki/Sippar-Amnanum,https://ar.wikipedia.org/wiki/سيبار_أمنانوم,,,,,44.2991,33.0991
+SIS,1,425,Unknown,Shīr al-Ṣanām,شير الصنام,,,,,,,58291143,0,,0,uncertain (mod. Shir as-Sanam),,,,,,,36.2443,34.4980
+SIT,3,0,,Tall Sītak,تل سيتك,,,,,,,0,0,,0,,,,,,,,45.5027,35.6419
+SIY,2,0,,Siyah Chas̱mah,,,سیه‌چشمه,,,,,0,879415755,node,116326,,https://en.wikipedia.org/wiki/Siah_Cheshmeh,,https://fa.wikipedia.org/wiki/سیه%E2%80%8Cچشمه,,,,44.3867,39.0659
+SJQ,2,0,,Kūy Sīnjāq,کۆیسینجاق,,,,,,,0,470018430,node,94220,,,,,,,,44.6278,36.0847
+SJR,3,199,,Sur Jar'a,,,,,,,,413309738,0,,0,uncertain (mod. Sur Jar'a),,,,,,,42.1939,34.3072
+SKH,3,84,Tarbisu,Tall Sharīf Khān,تل شريف خان,,,,,,,30774368,5392949728,node,0,Tarbisu (mod. Tell Sherif Khan),https://en.wikipedia.org/wiki/Tarbisu,,https://fa.wikipedia.org/wiki/تربیس,,,,43.0774,36.4089
+SLA,1,424,,Al-Sila‘,السلع,,,,,,,86623849,798883031,node,246782,uncertain (mod. Sela),0,,,,,,35.5779,30.7823
+SLG,3,259,,Tas-Silġ,,,,,,,,601235773,386959624,way,2565360,"uncertain (mod. Tas-Silg, Malta)",https://en.wikipedia.org/wiki/Tas-Silġ,,,,,,14.5519,35.8459
+SMA,3,398,,Al-Sāmirah,السامرة,,,,,שומרון,,678370,265619990,way,282107,Samerina (mod. Samaria),https://en.wikipedia.org/wiki/Samaria_%28ancient_city%29,https://ar.wikipedia.org/wiki/السامرة_(مدينة_أثرية),,,,,35.1897,32.2763
+SMH,3,0,,Ishān al-Sama‘a,اشان السمع,,,,,,,0,2482342332,node,6739227,uncertain (mod. Tell Sukas),0,,,,,,45.4193,32.0725
+SMR,3,282,,Sāmmarā,سامراء,,,,,,,894082,393905434,way,0,uncertain (mod. Samarra) ?,https://en.wikipedia.org/wiki/Samarra,https://ar.wikipedia.org/wiki/سامراء,,,,,43.8795,34.2291
+SNJ,1,108,,Bitwātā,بتواتا,,,,,,,0,0,,0,uncertain (mod. Bardi Sanjian Bitwata),,,,,,,44.7031,36.3398
+SOK,3,309,,Shahr-i Sūkhta,,,شهر سوخته,,,,,377547413,3304892108,node,1159598,uncertain (mod. Shahr-i Sokhta),https://en.wikipedia.org/wiki/Shahr-e_Sukhteh,https://ar.wikipedia.org/wiki/شهر_سوخته,,,,,61.3280,30.5961
+SOU,1,434,,Tall Soukās,تل سوكاس,,,,,,,668383,0,,0,,,,,,,,35.9229,35.3060
+SPA,1,0,Unknown,Spandaryan,,Սպանդարյան,,,,,,0,0,,0,,0,,,,,,44.0205,40.6679
+SPH,3,307,,Zippori,,,,,,צִפּוֹרִי,,678387,112585706,way,293058,uncertain (mod. Sepphoris),https://en.wikipedia.org/wiki/Sepphoris,https://ar.wikipedia.org/wiki/صفورية,,,,,35.2790,32.7529
+SPI,3,0,,Tall-i Spīd,,,تل‌اسپید,,,,,0,6336979542,node,112703,,0,,,,,,51.4845,30.2519
+SQL,3,251,Isqalluna,Ashkelon,,,,,,אַשְׁקְלוֹן,,687839,1376782,relation,293400,Isqalluna (mod. Ashkelon),https://en.wikipedia.org/wiki/Ashkelon,,,,https://he.wikipedia.org/wiki/wiki/אשקלון,,34.5471,31.6629
+SRD,1,0,Unknown,Sardarapat,,Սարդարապատ,,,,,,0,309926621,way,616328,,"https://en.wikipedia.org/wiki/Sardarapat,_Armenia",,,,,,44.0187,40.1360
+SRK,1,0,Unknown,Sarıkamış,,,,,,,,0,0,,0,,0,,,,,,42.5796,40.3348
+SRM,2,0,,Sarmaç,,,,,,,,0,1482093902,node,301531,,,,,,,,43.4960,38.4984
+SRP,2,0,,Sārabtā,ساربتا,,,,,,,0,3199142544,node,0,,0,,,,,,35.2950,33.4643
+SSH,2,0,Unknown,S̱īs̱ah,,,شيشه,,,,,0,4453591321,node,35594,,0,,,,,,47.3662,38.6075
+SUH,1,0,,Suhairy,Unknown,,,,,,,0,0,,0,,,,,,,,45.5881,31.4729
+SUN,2,0,Unknown,Süngütaşı,,,,,,,,0,2559451429,node,739232,,0,,,,,,42.2432,40.2139
+SUR,3,54,Šuruppak,Tall Fārā,تل فارا,,,,,,,326150788,2482345266,node,96781,Šuruppak (mod. Fara),https://en.wikipedia.org/wiki/Shuruppak,https://ar.wikipedia.org/wiki/شوروباك,,,,,45.5113,31.7772
+SUS,3,12,Susa,Shūsh,,,شوش,,,,,912936,378357184,way,6687956,Susa (mod. Shush),https://en.wikipedia.org/wiki/Susa,,https://fa.wikipedia.org/wiki/شوش_(شهر_باستانی),,,,48.2569,32.1895
+SWE,3,156,,Tall Suwaiyhat,Unknown,,,,,,,0,0,,0,uncertain (mod. Tell Sweyhat),https://en.wikipedia.org/wiki/Sweyhat,,,,,,38.2538,36.2734
+SWS,3,410,,Sa‘ad wa Sa‘ayd,سعد وسعيد,,,,,,,0,0,,285461,uncertain (mod. Failaka),,,,,,,48.2779,29.4303
+SYA,3,0,Unknown,Tall Siānū,تل سيانو,,,,,,,0,0,,0,,,,,,,,36.0028,35.3653
+SZE,3,289,Šubat-Enlil,Tall Laiylān,تل ليلان,,,,,,,223856813,373936354,way,8449936,Šubat-Enlil (mod. Leilan),https://en.wikipedia.org/wiki/Tell_Leilan,https://ar.wikipedia.org/wiki/تل_ليلان,,,,,41.5069,36.9579
+SZU,3,401,Šušarra,Tall Shimshārah,تل شمشارة,,,,,,,0,3523800857,node,0,Susarra (mod. Tell Shemshara),https://en.wikipedia.org/wiki/Tell_Shemshara,,,,,,44.9384,36.2016
+TAB,3,34,,Tall Ṭābān,تل طابان,,,,,,,874754,3377400743,node,163833,uncertain (mod. Tell Taban),0,,,,,,40.7878,36.3362
+TAF,3,0,,Tall Afghanī,,,تل افغاني‎,,,,,0,4540942989,node,38369,,,,,,,,51.1321,31.4883
+TAG,1,0,,Tall al-‘Agāmiyya,Unknown,,,,,,,0,0,,0,,,,,,,,43.4304,35.2249
+TAH,3,0,,Taşlik Höyük,,,,,,,,0,0,,0,,,,,,,,35.0269,39.8017
+TAN,3,0,,Ṣan al-Hagar,صان الحجر,,,,,,,27236,188053938,way,349654,,https://en.wikipedia.org/wiki/Tanis,https://ar.wikipedia.org/wiki/صان_الحجر_القبلية,,,,,31.8845,30.9746
+TAS,2,0,Unknown,Taşburun,,,,,,,,0,1951322177,node,299793,,,,,,,,44.2460,39.9799
+TAT,1,0,,Ṭashtepe,,,طاس تپه,,,,,0,0,,0,,0,,,,,,45.5666,37.0499
+TAW,2,0,Unknown,Ṭawīlān,طويلان,,,,,,,0,0,,0,,,,,,,,35.4848,30.3313
+TAY,3,90,,Tall Ṭa‘iynāt,تل طعينات,,,,,,,913163220,144313133,way,438034,uncertain (mod. Tell Ta'ynat) : Unqi (mod. Tell Tayinat),https://en.wikipedia.org/wiki/Tell_Tayinat,,,,,tr.wikipedia.org/wiki/Tell_Tayinat,36.3759,36.2482
+TBA,3,148,,Tulūl al-Baqarāt,تلول البقرات,,,,,,,0,2484044587,node,6759615,uncertain (mod. Tell al-Diba'i),,,,,,,45.7239,32.3361
+TBM,1,0,,Tel Beth Mirsim,,,,,,תל בית מירשם,,0,0,,293388,,https://en.wikipedia.org/wiki/Tell_Beit_Mirsim,,,,https://he.wikipedia.org/wiki/תל_בית_מירסים,,34.9105,31.4557
+TBO,3,77,,Tapah Barmī,تپه برمی,,,,,,,0,4471106114,node,389087,uncertain (mod. Tappeh Bormi),https://en.wikipedia.org/wiki/Tall_Barmi,,https://fa.wikipedia.org/wiki/تل%E2%80%8Cبرمی,,,,49.5890,31.2413
+TBP,3,304,,Tall Aḥmar,تل أحمر,,,,,,,658410,330831722,way,163733,Til Barsip (mod. Tell Ahmar),https://en.wikipedia.org/wiki/Til_Barsip,https://ar.wikipedia.org/wiki/تل_برسيب,,,,,38.1209,36.6743
+TBR,1,0,,Tabor,طابور,,,,,תבור,,0,0,,0,,,,,,,,35.4147,32.6714
+TBS,3,0,,Tell Ba'arura Shargi,Unknown,,,,,,,0,0,,0,,,,,,,,46.1685,30.9786
+TBT,3,257,,Tall ‘Abṭah,تل عبطة,,,,,,,111343632,0,,442151,uncertain (mod. Tell Abta),,,,,,,42.5619,35.9432
+TDB,3,148,Zaralulu,Tall al-Dhiba‘i,Unknown,,,,,,,678313544,533501786,way,0,uncertain (mod. Tell al-Diba'i) : uncertain (mod. Tell Dhiba'i),0,,,,,,44.4823,33.3229
+TDU,3,0,Taidu,Tall Ḥamīdī,تل حميدي,,,,,,,874740,567216082,node,169996,,0,,,,,,41.1660,36.8160
+TEG,1,0,,Tūl-i Gīlān,,,تول گیلان,,,,,0,0,,0,,0,,,,,,48.6069,37.7352
+TEH,3,0,,Tel Hadid,,,,,,תל חדיד,,687913,0,,10309119,,,,,,,,34.9517,31.9635
+TEI,3,0,Teisheba,Karmir blur,,Կարմիր բլուր,,,,,,863822,183431622,way,832159,,https://en.wikipedia.org/wiki/Teishebaini,,,,,,44.4509,40.1529
+TEM,3,438,,Tall al-Maskhūṭa,تل المسخوطة,,,,,,,727124,243182530,way,0,uncertain (mod. Tell el-Maskuta),0,,,,,,32.1002,30.5539
+TFA,1,428,Ḫabuba,Tall al-Farḥa,Unknown,,,,,,,0,0,,0,uncertain (mod. Tall al-Farḥa),,,,,,,43.4612,35.2652
+TFQ,2,0,,Tall Faqūs,تل فقوس,,,,,,,0,0,,0,,,,,,,,38.2052,35.9372
+TGA,3,0,,Tappah Gārān,,,تپه گاران,,,,,0,0,,0,,0,,,,,,47.3375,32.5802
+THA,3,435,,Ta‘nak,,,,,,תענכ,,678418,265587474,way,281604,uncertain (mod. Tell Taanach),https://en.wikipedia.org/wiki/Ti%27inik,,,,https://he.wikipedia.org/wiki/תיעניכ,,35.2195,32.5216
+THE,3,403,,Thiva,,,,Θήβα,,,,541138,154086178,node,252910,Thêbai (mod. Thebes Beoticia Greece),"https://en.wikipedia.org/wiki/Thebes,_Greece",,,https://el.wikipedia.org/wiki/Θήβα,,,23.3177,38.3207
+THM,3,113,,Tall al-Ḥammām,تل الحمام,,,,,,,912956,2485672506,node,6755900,uncertain (mod. Tell Hammam),0,,,,,,45.7675,31.6365
+THO,2,441,,Turlu Höyük,,,,,,,,201144661,0,,7619119,uncertain (mod. Turlu Höyük),,,,,,https://tr.wikipedia.org/wiki/Şehzade_Höyük,37.7581,37.0676
+THR,1,89,,Ṭūz Khūrmātū,طوز خورماتو,,,,,,,0,599170262,,90026,uncertain (mod. Tuz Hurmati),0,,,,,,44.6252,34.8840
+THW,3,293,,Tall al-Hawa,تل الهوى,,,,,,,874728,2486446345,node,7103777,uncertain (mod. Tell al-Hawa),0,,,,,,42.3012,36.7482
+THY,3,440,Unknown,Tilmen Höyük,,,,,,,,0,231331200,way,0,uncertain (mod. Tilmen Höyük),0,,,,,https://tr.wikipedia.org/wiki/Tilmen_Höyük,36.7037,37.0302
+TIJ,1,0,,Tall ‘Atij,تل عتيج,,,,,,,0,0,,0,,0,,,,,,40.8644,36.4303
+TIK,1,183,,Tikrīt,تكريت,,,,,,,894099,2480255384,,0,uncertain (mod. Tikrit),https://en.wikipedia.org/wiki/Tikrit,https://ar.wikipedia.org/wiki/تكريت,,,,,43.6753,34.5974
+TIR,3,0,,Tiryntha,,,,Τίρυνθα,,,,570740,281222021,way,408652,,0,,,,,,22.8003,37.5992
+TJZ,3,0,,Tarjān,ترجان,,,,,,,0,4559230013,node,90184,,,,,,,,43.7581,36.1224
+TKH,2,0,Unknown,Tulūl Khaṭāb,تلول خطاب,,,,,,,894167,2486303399,node,6806341,,,,,,,,44.5136,33.4767
+TKP,1,0,,Taşköprü,,,,,,,,0,0,,0,,,,,,,,43.2489,40.9553
+TLB,2,0,,Tilbes Höyük,,,,,,,,0,0,,0,,,,,,,,37.8735,37.0886
+TLH,3,191,,Tall al-Laḥam,تل اللحم,,,,,,,912959,2482342329,node,6739313,uncertain (mod. Tel Laham),0,,,,,,45.4062,32.0509
+TLL,3,107,,Tulūl al-Lak,تلول اللك,,,,,,,741318296,2488247250,node,6860784,uncertain (mod. Tulul al-Lak),0,,,,,,43.2638,36.2983
+TMH,3,7,,Tall Muḥamad,تل محمد,,,,,,,249999668,0,,0,uncertain (mod. Tell Muhammad),0,,,,,,44.4681,33.3009
+TMN,3,404,Timnah,Tel Batash,,,,,,תל בטש,,746825,278473206,node,293390,Timnah (mod. Khirbet Tibneh),0,,,,,,34.9110,31.7847
+TMU,3,0,,Tappah Mūsiyān,,,تپه موسیان,,,,,0,0,,122985,,0,,,,,,47.3510,32.5530
+TNA,1,194,,‘Anah,عنه,,,,,,,893936,0,,0,uncertain (mod. 'Ana),0,,,,,,41.9794,34.4677
+TNH,2,0,Unknown,Tʻanahat,,Թանահատ,,,,,,0,7900615594,node,0,,https://en.wikipedia.org/wiki/Tanahat,,https://fa.wikipedia.org/wiki/تاناهات,,,,45.9250,39.4156
+TNP,1,405,Tunip,Tall al-A‘shārnah,تل العشارنة,,,,,,,0,567200880,node,174035,Tunip (mod. Acharneh),0,,,,,,36.3959,35.2877
+TOD,3,0,,Ṭūd,طود,,,,,,,786132,768808943,node,347422,,https://en.wikipedia.org/wiki/El-Tod,ar.wikipedia.org/wiki/الطود_(الأقصر),,,,,32.5332,25.5832
+TOP,2,0,Unknown,Topraklı,,,,,,,,0,2284818566,node,298967,,0,,,,,,43.5283,39.0462
+TRM,3,0,,Alazlı,,,,,,,,0,1492400010,node,324139,,0,,,,,,41.8247,38.6939
+TRQ,3,250,Terqa,Tall al-Ashārah,تل الأشارة,,,,,,,894158,3385387638,node,0,Terqa (mod. Ashara),https://en.wikipedia.org/wiki/Terqa,,,,,,40.5677,34.9229
+TRT,1,0,Unknown,Ṭarṭūs,طرطوس,,,,,,,0,192296363,node,163345,,https://en.wikipedia.org/wiki/Tartus,https://ar.wikipedia.org/wiki/طرطوس,,,,,35.8865,34.8958
+TSA,3,0,,Tall Saka,تل سك,,,,,,,0,567111886,node,164959,,"https://en.wikipedia.org/wiki/Sakka,_Rif_Dimashq_Governorate",https://ar.wikipedia.org/wiki/سكا_(ريف_دمشق),,,,,36.4682,33.4402
+TSB,3,126,,Tall Sabā,,,,,,,,0,0,,0,uncertain (mod. Tell Sabaa),0,,,,,,44.7514,33.4638
+TSI,3,74,,Tapah Sīyalk,تپه سیلک,,,,,,,0,235301286,way,9210558,uncertain (mod. Tepe Sialk),https://en.wikipedia.org/wiki/Tepe_Sialk,https://ar.wikipedia.org/wiki/تل_سيلك,,,,,51.4042,33.9688
+TSO,3,146,,Tapah Sofālīn,,,تپه سفالین,,,,,0,0,,0,uncertain (mod. Tepe Sofalin),,,,,,,51.7366,35.3161
+TSV,2,0,Alitschalu,Ōdzaberd,,Օձաբերդ,,,,,,0,668199003,way,0,,https://en.wikipedia.org/wiki/Odzaberd,,,,,,45.4950,40.1537
+TTA,3,0,,Tall al-Ṭāya,تل الطايع,,,,,,,574198887,4851840698,node,0,,https://en.wikipedia.org/wiki/Tell_Taya,https://ar.wikipedia.org/wiki/تل_الطايع,,,,,42.4933,36.3324
+TTB,3,130,Tutub,Khafājī,خفاجي,,,,,,,490043590,307248855,way,0,Tutub (mod. Khafaje),https://en.wikipedia.org/wiki/Khafajah,https://ar.wikipedia.org/wiki/توتوب,,,,,44.5559,33.3554
+TTU,2,0,,Dicle Tüneli,,,,,,,,0,0,,6611419,,https://en.wikipedia.org/wiki/Tigris_tunnel,,,,,https://tr.wikipedia.org/wiki/Dicle_T%C3%BCneli,40.5490,38.5291
+TUH,1,0,Unknown,Ṭulūl al-Ḥumr,Unknown,,,,,,,0,0,,0,,0,,,,,,45.2872,31.8567
+TUT,3,26,Tuttul,Tall al-Bīʻa,تل البيعة,,,,,,,582993625,226859670,node,171471,Tuttul (mod. Tell Bi'a),https://en.wikipedia.org/wiki/Tuttul,https://ar.wikipedia.org/wiki/تل_البيعة,,,,,39.0471,35.9580
+TVI,1,429,Unknown,Tankīwar,,,تنگي ور‎,,,,,429,3015540886,node,113324,uncertain (mod. Tang-i Var),https://en.wikipedia.org/wiki/Tangivar,,https://fa.wikipedia.org/wiki/تنگی_ور,,,,46.6182,34.9961
+TVK,1,0,,Tsovak,,Ծովակ,,,,,,0,498207843,way,616138,,https://en.wikipedia.org/wiki/Tsovak,,,,,,45.6391,40.1823
+TYM,3,402,,Ṭaymā,تيما,,,,,,,814739,1237942492,node,101516,Tema (mod. Tayma),https://en.wikipedia.org/wiki/Tayma,https://ar.wikipedia.org/wiki/محافظة_تيماء,,,,,38.5499,27.6219
+TYR,2,0,,Ṣūr,صور,,,,,,,678437,803018184,node,267008,,https://sv.wikipedia.org/wiki/Tyros,https://ar.wikipedia.org/wiki/صور_(لبنان),,,,,35.1943,33.2706
+TZW,1,0,Unknown,Ṭūbzāwah,طوبزاوة,,,,,,,0,2488199589,node,90109,,,,,,,,44.6979,36.8079
+UBD,3,226,,Tall al-ʻUbaīd,تل العبيد,,,,,,,339709658,5179254511,node,0,uncertain (mod. Tell Ubaid),https://en.wikipedia.org/wiki/Tell_al-%27Ubaid,https://ar.wikipedia.org/wiki/تل_العبيد,,,,,46.0305,30.9722
+UCH,3,278,,Umm Jātil,المجاتل,,,,,,,0,2485672526,node,7011811,uncertain (mod. Umm Chatil),,,,,,,46.5784,31.3901
+UFR,3,268,,Umm al-Ḥafriyāt,أم الحفريات,,,,,,,0,235546020,way,0,uncertain (mod. Umm el-Hafriyat),,,,,,,45.4813,32.1323
+UGA,3,131,Ugarit,Rās Shamrah,راس شمرة,,,,,,,668295,145167629,way,165369,Ugarit (mod. Ras Shamra),https://en.wikipedia.org/wiki/Ugarit,https://ar.wikipedia.org/wiki/أوغاريت,,,,,35.7853,35.6021
+UMA,3,0,,Umm al-Marra,أم المرة,,,,,,,0,572565051,node,0,,https://en.wikipedia.org/wiki/Umm_el-Marra,https://ar.wikipedia.org/wiki/أم_المرة,https://fa.wikipedia.org/wiki/ام%E2%80%8Cالمره,,,,37.6936,36.1340
+UPI,3,55,Upi,Ūbīs,أوبيس,,,,,,,894056,0,,0,Upi (mod. Opis),https://en.wikipedia.org/wiki/Opis,https://ar.wikipedia.org/wiki/أوبيس,,,,,44.7014,33.1844
+UQA,3,72,,Tall ʻUqair,تل عقير,,,,,,,0,556384365,way,0,uncertain (mod. Tell Uqair),https://en.wikipedia.org/wiki/Tell_Uqair,https://ar.wikipedia.org/wiki/تل_عقير,,,,,44.6643,32.7817
+UQR,3,101 : 381,,Tall Umm al-ʻAjarib,تل ام العجايب,,,,,,,0,8853904404,node,6755904,uncertain (mod. Umm al-Aqarib) : Gišša (mod. Umm al-Aqarib),,,,,,,45.9339,31.6207
+URB,3,0,,Qā`lah Arbīl,قلعة أربيل,,,,,,,0,391279970,way,95444,,https://en.wikipedia.org/wiki/Citadel_of_Erbil,https://ar.wikipedia.org/wiki/قلعة_أربيل,,,,,44.0093,36.1913
+URI,3,21,Ur,Tall al-Muqayyar,تل المقير,,,,,,,912985,235546020,way,93199,Ur (mod. Tell Muqayyar),https://en.wikipedia.org/wiki/Ur,https://ar.wikipedia.org/wiki/أور,,,,,46.1063,30.9607
+URK,3,254,Urkiš,Tall Mūzān,تل موزان‎‎,,,,,,,404687441,492110353,way,166513,Urkesh (mod. Tell Mozan),https://en.wikipedia.org/wiki/Urkesh,https://ar.wikipedia.org/wiki/تل_موزان,,,,,40.9975,37.0572
+URU,3,105,Uruk,Warkāʼ,وركاء,,,,,,,912986,385045923,node,89703,Uruk (mod. Warka),https://en.wikipedia.org/wiki/Uruk,https://ar.wikipedia.org/wiki/الوركاء,,,,,45.6395,31.3234
+USH,3,0,,Ushaklı Höyük,,,,,,,,512530798,278615085,way,0,,0,,,,,,35.0525,39.8130
+UWW,3,215,,Umm al-Wawiya,,,,,,,,0,0,,0,uncertain (mod. Umm al-Wawīya),0,,,,,,45.7626,31.2613
+VAK,1,0,,Van,,,,,,,,0,0,,0,,,,,,,,43.3551,38.5156
+VAN,3,0,Turuspa,Van,,,,,,,,964673805,135564251,way,0,,https://en.wikipedia.org/wiki/Tushpa,,,,,,43.3397,38.5011
+VAR,2,0,,Vardatsor,,Վարդաձոր,,,,,,0,2340471828,node,859714,,https://en.wikipedia.org/wiki/Vardadzor,,,,,,45.1930,40.1888
+WIN,1,0,,Wingate,,,,,,וינגייט,,0,277881960,way,8142263,,,,,,,,34.8349,32.2616
+WLS,1,0,Unknown,Wādī al-Sab`,وادي آل سبع,,,,,,,528477899,0,,268547,,,,,,,,36.3490,34.5518
+XOC,1,0,Unknown,Xocali,,,,,,,,0,0,,0,,,,,,,,46.8015,39.9060
+YAH,3,67,,Tapah Yahiya,,,تپه یحیی‎,,,,,29783,0,,6986540,uncertain (mod. Tepe Yahya),https://en.wikipedia.org/wiki/Tepe_Yahya,,https://fa.wikipedia.org/wiki/تپه_یحیی,,,,56.8675,28.3309
+YAL,2,0,,Yalçınkaya,,,,,,,,0,2291750346,node,307181,,0,,,,,,42.8485,39.1768
+YAR,3,219,,Tall Yārah,تل يارة,,,,,,,0,615434986,way,6860535,uncertain (mod. Tell Yarah),0,,,,,,43.2532,36.4466
+YAS,3,0,,Yassi Höyük,,,,,,,,0,0,,0,,0,,,,,,34.8825,39.9931
+YAZ,2,0,Unknown,Yazılıtaş,,,,,,,,0,2446149674,node,297344,,0,,,,,,42.2755,39.8708
+YEL,1,436,,Yelkhi,تل يلخي,,,,,,,0,0,,0,uncertain (mod. Tell Yelkhi),0,,,,,,45.0013,34.2856
+YES,1,0,,Yeşilağaç,,,,,,,,0,1482093959,node,296884,,0,,,,,,44.0205,38.4386
+YON,1,78,,Yoncali,,,,,,,,708232007,161946697,node,296593,uncertain (mod. Yoncali),0,,,,,,42.1875,39.1290
+YSJ,1,188,,Yāsūj,یاسوج,,,,,,,0,8073640,relation,66093,uncertain (mod. Yasuj),https://en.wikipedia.org/wiki/Yasuj,,https://fa.wikipedia.org/wiki/یاسوج,,,,51.5796,30.6673
+ZAB,3,98 : 99,Zabalam,Tall Ibzaīykh,تل ابزيخ,,,,,,,921099766,5279096380,node,6755876,Zabalam (mod. Ibzaikh) : uncertain (mod. Ibzaih),https://en.wikipedia.org/wiki/Zabala_(Sumer),https://ar.wikipedia.org/wiki/زابالا_(مدينة_سومرية),,,,,45.8749,31.7436
+ZBD,1,433,,Tall Zubīdī,تل زبيدي,,,,,,,0,0,,0,uncertain (mod. Tell Subeidi),0,,,,,,45.0312,34.1982
+ZCR,3,14,Samal,Zinčirli,,,,,,,,192555966,0,,0,Samal (mod. Zinčirli),https://en.wikipedia.org//wiki/Samʼal,,,,,https://tr.wikipedia.org/wiki/Zincirli_Höyük,36.6783,37.1035
+ZIW,2,0,,Ẕiwyah,,,زیویه,,,,,884230,344744849,way,10971678,,https://en.wikipedia.org/wiki/Ziwiyeh_Castle,,https://fa.wikipedia.org/wiki/تپه_قلعه_زیویه,,,,46.6879,36.2739
+ZLB,1,58,,Zālūl Āb,زالوآب,,,,,,,420860522,3520298814,node,23313,uncertain (mod. Zalil Ab),"https://en.wikipedia.org/wiki/Zalu_Ab,_Kermanshah",,https://fa.wikipedia.org/wiki/زالوآب_(روانسر),,,,46.5799,34.6309
+ZOH,1,116,,Sar-i Pol-i Zohāb,,,سر پل زهاب,,,,,0,0,,0,uncertain (mod. Sar-i-pul-i-Zohāb),https://en.wikipedia.org/wiki/Anubanini_rock_relief,,,,,,45.8692,34.4633
+ZTP,3,244,Tushhan,Ziyaret Tepe,,,,,,,,0,94498773,way,439817,Tushhan (mod. Ziyaret Tepe),https://en.wikipedia.org/wiki/Tushhan,,,,,https://tr.wikipedia.org/wiki/Ziyaret_Tepe_H%C3%B6y%C3%BC%C4%9F%C3%BC,40.7929,37.7936
+ZVA,1,0,,Zvartʻnotsʻ,,Զվարթնոց,,,,,,0,3135301834,node,866096,,"https://en.wikipedia.org/wiki/Zvartnots,_Armenia",,https://fa.wikipedia.org/wiki/سنگ%E2%80%8Cنگاره_آنوبانی%E2%80%8Cنی,,,,44.3366,40.1596
+ZWY,1,271,,Zawiyah,زوية,,,,,,,767486703,0,,0,uncertain (mod. Zawiyya),,,,,,,42.1725,34.2925
